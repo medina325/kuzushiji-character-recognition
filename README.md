@@ -14,9 +14,9 @@ This project consists in training several [Neural Networks and Convolutional Neu
 ## Dataset
 TODO - Description - Interesting facts etc
 
-<img style="position: center;" alt="75 Random Samples" src="/plots/75_random_samples.png">
-<img style="position: center;" alt="5 Classes Train Samples" src="/plots/5_classes_train_samples.png">
-<img style="position: center;" alt="Classes Inbalance" src="/plots/classes_inbalance_train_samples.png">
+<img style="align: center;" alt="75 Random Samples" src="/plots/75_random_samples.png">
+<img style="align: center;" alt="5 Classes Train Samples" src="/plots/5_classes_train_samples.png">
+<img style="align: center;" alt="Classes Inbalance" src="/plots/classes_inbalance_train_samples.png">
 
 ## Models
 TODO
