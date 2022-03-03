@@ -14,11 +14,12 @@ This project consists in training several [Neural Networks and Convolutional Neu
 ## Dataset
 TODO - Description - Interesting facts etc
 
+![Fancy logo](./plots/dark/75_random_samples.png#gh-dark-mode-only)
+![Fancy logo](./plots/light/75_random_samples.png#gh-light-mode-only)
+
 <p align="center">
-<!--   <img align="center" alt="75 Random Samples" src="/plots/dark/75_random_samples.png#gh-dark-mode-only"> -->
-  ![Fancy logo](./plots/dark/75_random_samples.png#gh-dark-mode-only)
-  ![Fancy logo](./plots/light/75_random_samples.png#gh-light-mode-only)
-<!--   <img align="center" alt="75 Random Samples" src="/plots/light/75_random_samples.png#gh-light-mode-only"> -->
+  <img align="center" alt="75 Random Samples" src="/plots/dark/75_random_samples.png#gh-dark-mode-only">
+  <img align="center" alt="75 Random Samples" src="/plots/light/75_random_samples.png#gh-light-mode-only">
 </p>
 <p align="center">
   <img align="center" alt="5 Classes Train Samples" src="/plots/dark/5_classes_train_samples.png#gh-dark-mode-only">
