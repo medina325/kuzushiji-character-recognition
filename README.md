@@ -15,8 +15,6 @@ This project consists in training several [Neural Networks and Convolutional Neu
 ## Dataset
 The dataset used is the Kuzushiji-49 dataset, that comes as one of the datasets within the Kuzushiji-MNIST dataset. It consists in 232365 images for training and 38547 for evaluation, with 49 classes (for 49 [Hentaigana](https://en.wikipedia.org/wiki/Hentaigana) characters) as the name of the dataset suggests.
 
-The training and evaluation samples and labels come as numpy compressed files (npz format), with every sample being in gray-scale and having 28x28 resolution.
-
 Every sample is a 28x28 gray-scale image, saved in numpy compressed files (npz format). The figure below shows 75 random samples from the dataset.
 
 <p align="center">
