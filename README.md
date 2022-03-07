@@ -5,8 +5,8 @@
 - [Dataset](#dataset)
 - [Models](#models)
 - [Training](#training)
-    - [Loading Models after Training](#loading-models-after-training)
 - [Evaluation](#evaluation)
+- [Discussion](#discussion)
 
 
 ## Introduction
@@ -60,8 +60,15 @@ The models consists in 6 NNs and 6 CNNs:
 Both NNs and CNNs models share the same idea. The first 4 models aims to compare how the number of layers/filters and different optimizers, SGD (Stochastic Gradient Descent) and Adam, impact on the models performance. And the last 2 models, are more dense networks, whose goal is to see how much better a model gets, if at all, with many more layers/filters, and also if [Batch Normalization](https://www.youtube.com/watch?v=dXB-KQYkzNU&t=7s) plays an important part in the learning process.
 
 ## Training
-TODO
-### Loading Models After Training
-TODO
+Every model was trained for 10 epochs, using batches with 128 samples, with each epoch having the same 30% of the dataset separated for validation (since shuffling the validation set in between the epochs didn't seem to make any difference).
+
+When the training of a model is finished, the trained weights are saved as .h5 files, for simple loading afterwards, avoiding having to train the models all over again (which takes a long time, specially for the CNNs).
+
 ## Evaluation
-TODO
+As explained in the section [Dataset](#dataset), the dataset is a bit unbalanced (with some classes only having ~400 samples, way less than 6000 samples for other classes). Because of this, it's not fair to evaluate these models based purely on accuracy. It is necessary to use a multiclass ROC analysis .............
+
+TODO - show / analyse results
+
+## Discussion
+
+TODO - Talk about using ResNets, for reduced computational cost -> less time to train
