@@ -18,22 +18,22 @@ The dataset used is the Kuzushiji-49 dataset, that comes as one of the datasets 
 Every sample is a 28x28 gray-scale image, saved in numpy compressed files (npz format). The figure below shows 75 random samples from the dataset.
 
 <p align="center">
-  <img align="center" alt="75 Random Samples" src="/plots/dark/75_random_samples.png#gh-light-mode-only">
-  <img align="center" alt="75 Random Samples" src="/plots/light/75_random_samples.png#gh-dark-mode-only">
+  <img align="center" alt="75 Random Samples" src="/examples/plots/dark/75_random_samples.png#gh-light-mode-only">
+  <img align="center" alt="75 Random Samples" src="/examples/plots/light/75_random_samples.png#gh-dark-mode-only">
 </p>
 
 As explained in the Kaggle page for the dataset, Kuzushiji characters have different variations for the same character. That means that many samples from the same class can look very different, making it hard even for experts to distinguish them, and also for training models to learn this dataset well. The figure below ilustrates this situation.
 
 <p align="center">
-  <img align="center" alt="5 Classes Train Samples" src="/plots/dark/5_classes_train_samples.png#gh-light-mode-only">
-  <img align="center" alt="5 Classes Train Samples" src="/plots/light/5_classes_train_samples.png#gh-dark-mode-only">
+  <img align="center" alt="5 Classes Train Samples" src="/examples/plots/dark/5_classes_train_samples.png#gh-light-mode-only">
+  <img align="center" alt="5 Classes Train Samples" src="/examples/plots/light/5_classes_train_samples.png#gh-dark-mode-only">
 </p>
 
 And besides having samples with variations for the same class, there are also less common characters in the japanese literature, than others. To translate this reality to the dataset, the inbalance between the amount of samples was kept, as shown in the figure below.
 
 <p align="center">
-  <img align="center" alt="Classes Inbalance" src="/plots/dark/classes_inbalance_train_samples.png#gh-light-mode-only">
-  <img align="center" alt="Classes Inbalance" src="/plots/light/classes_inbalance_train_samples.png#gh-dark-mode-only">
+  <img align="center" alt="Classes Inbalance" src="/examples/plots/dark/classes_inbalance_train_samples.png#gh-light-mode-only">
+  <img align="center" alt="Classes Inbalance" src="/examples/plots/light/classes_inbalance_train_samples.png#gh-dark-mode-only">
 </p>
 
 For more details, check the [Kaggle page](https://www.kaggle.com/anokas/kuzushiji) for the dataset.
