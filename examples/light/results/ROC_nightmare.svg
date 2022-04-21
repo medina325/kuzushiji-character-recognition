@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-04-20T23:53:13.856746</dc:date>
+    <dc:date>2022-04-21T01:04:11.253052</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,17 +42,17 @@ z
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m00f3351426" d="M 0 0 
+       <path id="m0d62021d5a" d="M 0 0 
 L 0 3.5 
-" style="stroke: #000000; stroke-width: 0.8"/>
+" style="stroke: #ffffff; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m00f3351426" x="173.045455" y="945" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m0d62021d5a" x="173.045455" y="945" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
       <!-- 0.0 -->
-      <g transform="translate(165.425923 959.490625)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(165.425923 959.490625)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-30" d="M 2038 4725 
 Q 2881 4725 3334 3944 
@@ -92,12 +92,12 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m00f3351426" x="325.227273" y="945" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m0d62021d5a" x="325.227273" y="945" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
       <!-- 0.2 -->
-      <g transform="translate(317.607741 959.490625)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(317.607741 959.490625)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-32" d="M 3659 63 
 L 447 63 
@@ -131,12 +131,12 @@ z
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m00f3351426" x="477.409091" y="945" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m0d62021d5a" x="477.409091" y="945" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
       <!-- 0.4 -->
-      <g transform="translate(469.78956 959.490625)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(469.78956 959.490625)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-34" d="M 3813 1159 
 L 3056 1159 
@@ -170,12 +170,12 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m00f3351426" x="629.590909" y="945" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m0d62021d5a" x="629.590909" y="945" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
       <!-- 0.6 -->
-      <g transform="translate(621.971378 959.490625)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(621.971378 959.490625)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-36" d="M 1056 2328 
 Q 1509 2981 2234 2981 
@@ -214,12 +214,12 @@ z
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m00f3351426" x="781.772727" y="945" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m0d62021d5a" x="781.772727" y="945" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
       <!-- 0.8 -->
-      <g transform="translate(774.153196 959.490625)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(774.153196 959.490625)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-38" d="M 2541 2425 
 Q 3700 2031 3700 1197 
@@ -270,12 +270,12 @@ z
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m00f3351426" x="933.954545" y="945" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m0d62021d5a" x="933.954545" y="945" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
       <!-- 1.0 -->
-      <g transform="translate(926.335014 959.490625)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(926.335014 959.490625)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-31" d="M 2463 63 
 L 1900 63 
@@ -296,7 +296,7 @@ z
     </g>
     <g id="text_7">
      <!-- False positive rate -->
-     <g transform="translate(469.245313 980.371875)scale(0.2 -0.2)">
+     <g style="fill: #ffffff" transform="translate(469.245313 980.371875)scale(0.2 -0.2)">
       <defs>
        <path id="TakaoPGothic-46" d="M 3469 4141 
 L 1172 4141 
@@ -527,17 +527,17 @@ z
     <g id="ytick_1">
      <g id="line2d_7">
       <defs>
-       <path id="m0077474beb" d="M 0 0 
+       <path id="m6b4cb98b06" d="M 0 0 
 L -3.5 0 
-" style="stroke: #000000; stroke-width: 0.8"/>
+" style="stroke: #ffffff; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m0077474beb" x="135" y="907.936364" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m6b4cb98b06" x="135" y="907.936364" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
       <!-- 0.0 -->
-      <g transform="translate(112.760937 911.681676)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(112.760937 911.681676)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-30" x="89.404297"/>
@@ -547,12 +547,12 @@ L -3.5 0
     <g id="ytick_2">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m0077474beb" x="135" y="759.681818" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m6b4cb98b06" x="135" y="759.681818" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
       <!-- 0.2 -->
-      <g transform="translate(112.760937 763.427131)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(112.760937 763.427131)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-32" x="89.404297"/>
@@ -562,12 +562,12 @@ L -3.5 0
     <g id="ytick_3">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m0077474beb" x="135" y="611.427273" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m6b4cb98b06" x="135" y="611.427273" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
       <!-- 0.4 -->
-      <g transform="translate(112.760937 615.172585)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(112.760937 615.172585)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-34" x="89.404297"/>
@@ -577,12 +577,12 @@ L -3.5 0
     <g id="ytick_4">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m0077474beb" x="135" y="463.172727" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m6b4cb98b06" x="135" y="463.172727" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
       <!-- 0.6 -->
-      <g transform="translate(112.760937 466.91804)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(112.760937 466.91804)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-36" x="89.404297"/>
@@ -592,12 +592,12 @@ L -3.5 0
     <g id="ytick_5">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m0077474beb" x="135" y="314.918182" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m6b4cb98b06" x="135" y="314.918182" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
       <!-- 0.8 -->
-      <g transform="translate(112.760937 318.663494)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(112.760937 318.663494)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-38" x="89.404297"/>
@@ -607,12 +607,12 @@ L -3.5 0
     <g id="ytick_6">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m0077474beb" x="135" y="166.663636" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m6b4cb98b06" x="135" y="166.663636" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
       <!-- 1.0 -->
-      <g transform="translate(112.760937 170.408949)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(112.760937 170.408949)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-31"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-30" x="89.404297"/>
@@ -621,7 +621,7 @@ L -3.5 0
     </g>
     <g id="text_14">
      <!-- True positive rate -->
-     <g transform="translate(104.960938 618.753125)rotate(-90)scale(0.2 -0.2)">
+     <g style="fill: #ffffff" transform="translate(104.960938 618.753125)rotate(-90)scale(0.2 -0.2)">
       <defs>
        <path id="TakaoPGothic-54" d="M 3866 4141 
 L 2175 4141 
@@ -762,7 +762,7 @@ L 598.868238 166.663636
 L 598.907783 166.663636 
 L 933.776592 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_14">
     <path d="M 173.045455 907.936364 
@@ -871,7 +871,7 @@ L 625.944462 166.663636
 L 644.137148 166.663636 
 L 644.176697 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_15">
     <path d="M 173.045455 907.936364 
@@ -990,7 +990,7 @@ L 554.282278 166.663636
 L 592.544592 166.663636 
 L 592.584201 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_16">
     <path d="M 173.045455 907.936364 
@@ -1119,7 +1119,7 @@ L 363.45656 169.514685
 L 363.45656 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_17">
     <path d="M 173.045455 907.936364 
@@ -1279,7 +1279,7 @@ L 766.966944 169.311039
 L 766.966944 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #9467bd; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #9467bd; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_18">
     <path d="M 173.045455 907.936364 
@@ -1462,7 +1462,7 @@ L 559.740876 168.951515
 L 559.740876 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #8c564b; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #8c564b; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_19">
     <path d="M 173.045455 907.936364 
@@ -1655,7 +1655,7 @@ L 473.438369 168.869805
 L 473.438369 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #e377c2; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #e377c2; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_20">
     <path d="M 173.045455 907.936364 
@@ -1790,7 +1790,7 @@ L 383.814823 168.79373
 L 383.814823 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #7f7f7f; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #7f7f7f; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_21">
     <path d="M 173.045455 907.936364 
@@ -1997,7 +1997,7 @@ L 762.018644 168.564336
 L 762.018644 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #bcbd22; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #bcbd22; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_22">
     <path d="M 173.045455 907.936364 
@@ -2194,7 +2194,7 @@ L 368.698104 168.521463
 L 368.698104 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #17becf; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #17becf; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_23">
     <path d="M 173.045455 907.936364 
@@ -2289,7 +2289,7 @@ L 471.490089 168.437016
 L 471.490089 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_24">
     <path d="M 173.045455 907.936364 
@@ -2612,7 +2612,7 @@ L 788.688083 168.152136
 L 788.688083 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_25">
     <path d="M 173.045455 907.936364 
@@ -2919,7 +2919,7 @@ L 718.588935 168.006522
 L 718.588935 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_26">
     <path d="M 173.045455 907.936364 
@@ -3170,7 +3170,7 @@ L 653.981359 167.955052
 L 653.981359 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_27">
     <path d="M 173.045455 907.936364 
@@ -3575,7 +3575,7 @@ L 851.638783 167.84213
 L 851.638783 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #9467bd; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #9467bd; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_28">
     <path d="M 173.045455 907.936364 
@@ -3922,7 +3922,7 @@ L 449.085727 167.756959
 L 449.085727 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #8c564b; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #8c564b; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_29">
     <path d="M 173.045455 907.936364 
@@ -4439,7 +4439,7 @@ L 814.903893 167.630094
 L 814.903893 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #e377c2; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #e377c2; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_30">
     <path d="M 173.045455 907.936364 
@@ -4702,7 +4702,7 @@ L 562.146006 167.550326
 L 562.146006 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #7f7f7f; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #7f7f7f; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_31">
     <path d="M 173.045455 907.936364 
@@ -5035,7 +5035,7 @@ L 594.750445 167.404909
 L 594.750445 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #bcbd22; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #bcbd22; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_32">
     <path d="M 173.045455 907.936364 
@@ -5216,7 +5216,7 @@ L 501.448038 167.404909
 L 501.448038 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #17becf; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #17becf; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_33">
     <path d="M 173.045455 907.936364 
@@ -5439,7 +5439,7 @@ L 505.642999 167.404909
 L 505.642999 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_34">
     <path d="M 173.045455 907.936364 
@@ -5780,7 +5780,7 @@ L 560.400406 167.404909
 L 560.400406 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_35">
     <path d="M 173.045455 907.936364 
@@ -6223,7 +6223,7 @@ L 688.073117 167.404909
 L 688.073117 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_36">
     <path d="M 173.045455 907.936364 
@@ -6703,7 +6703,7 @@ L 793.392971 167.404909
 L 793.392971 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_37">
     <path d="M 173.045455 907.936364 
@@ -7002,7 +7002,7 @@ L 913.486381 167.404909
 L 913.486381 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #9467bd; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #9467bd; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_38">
     <path d="M 173.045455 907.936364 
@@ -7391,7 +7391,7 @@ L 871.739431 167.404909
 L 871.739431 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #8c564b; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #8c564b; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_39">
     <path d="M 173.045455 907.936364 
@@ -7732,7 +7732,7 @@ L 455.303473 167.404909
 L 455.303473 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #e377c2; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #e377c2; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_40">
     <path d="M 173.045455 907.936364 
@@ -8105,7 +8105,7 @@ L 828.999471 167.404909
 L 828.999471 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #7f7f7f; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #7f7f7f; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_41">
     <path d="M 173.045455 907.936364 
@@ -8616,7 +8616,7 @@ L 780.119062 167.404909
 L 780.119062 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #bcbd22; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #bcbd22; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_42">
     <path d="M 173.045455 907.936364 
@@ -9027,7 +9027,7 @@ L 822.048401 167.404909
 L 822.048401 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #17becf; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #17becf; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_43">
     <path d="M 173.045455 907.936364 
@@ -9334,7 +9334,7 @@ L 640.955807 167.404909
 L 640.955807 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_44">
     <path d="M 173.045455 907.936364 
@@ -9645,7 +9645,7 @@ L 644.198288 167.404909
 L 644.198288 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_45">
     <path d="M 173.045455 907.936364 
@@ -10052,7 +10052,7 @@ L 490.666787 167.404909
 L 490.666787 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_46">
     <path d="M 173.045455 907.936364 
@@ -10657,7 +10657,7 @@ L 609.726657 167.404909
 L 609.726657 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_47">
     <path d="M 173.045455 907.936364 
@@ -11064,7 +11064,7 @@ L 700.354016 167.404909
 L 700.354016 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #9467bd; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #9467bd; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_48">
     <path d="M 173.045455 907.936364 
@@ -11433,7 +11433,7 @@ L 617.001974 167.404909
 L 617.001974 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #8c564b; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #8c564b; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_49">
     <path d="M 173.045455 907.936364 
@@ -11889,7 +11889,7 @@ L 825.919113 167.404909
 L 825.919113 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #e377c2; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #e377c2; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_50">
     <path d="M 173.045455 907.936364 
@@ -12292,7 +12292,7 @@ L 629.830042 167.404909
 L 629.830042 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #7f7f7f; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #7f7f7f; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_51">
     <path d="M 173.045455 907.936364 
@@ -12603,7 +12603,7 @@ L 835.018327 167.404909
 L 835.018327 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #bcbd22; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #bcbd22; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_52">
     <path d="M 173.045455 907.936364 
@@ -13048,7 +13048,7 @@ L 701.630743 167.404909
 L 701.630743 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #17becf; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #17becf; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_53">
     <path d="M 173.045455 907.936364 
@@ -13357,7 +13357,7 @@ L 521.936469 167.404909
 L 521.936469 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_54">
     <path d="M 173.045455 907.936364 
@@ -13722,7 +13722,7 @@ L 536.10206 167.404909
 L 536.10206 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_55">
     <path d="M 173.045455 907.936364 
@@ -13921,7 +13921,7 @@ L 385.144279 167.404909
 L 385.144279 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_56">
     <path d="M 173.045455 907.936364 
@@ -14240,7 +14240,7 @@ L 693.180025 167.404909
 L 693.180025 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_57">
     <path d="M 173.045455 907.936364 
@@ -14676,7 +14676,7 @@ L 860.816321 167.404909
 L 860.816321 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #9467bd; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #9467bd; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_58">
     <path d="M 173.045455 907.936364 
@@ -15225,7 +15225,7 @@ L 783.685791 167.404909
 L 783.685791 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #8c564b; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #8c564b; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_59">
     <path d="M 173.045455 907.936364 
@@ -15599,7 +15599,7 @@ L 632.748275 167.404909
 L 632.748275 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #e377c2; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #e377c2; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_60">
     <path d="M 173.045455 907.936364 
@@ -15842,7 +15842,7 @@ L 447.359393 167.404909
 L 447.359393 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #7f7f7f; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #7f7f7f; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_61">
     <path d="M 173.045455 907.936364 
@@ -15969,12 +15969,12 @@ L 491.011301 167.404909
 L 491.011301 166.663636 
 L 933.954545 166.663636 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke: #bcbd22; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke: #bcbd22; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="line2d_62">
     <path d="M 173.045455 907.936364 
 L 933.954545 166.663636 
-" clip-path="url(#p78379ba663)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #000000; stroke-width: 1.5"/>
+" clip-path="url(#pf7738e9316)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #000000; stroke-width: 1.5"/>
    </g>
    <g id="patch_3">
     <path d="M 135 945 
@@ -15998,7 +15998,7 @@ L 972 129.6
    </g>
    <g id="text_15">
     <!-- ROC curve -->
-    <g transform="translate(503.371875 123.6)scale(0.2 -0.2)">
+    <g style="fill: #ffffff" transform="translate(503.371875 123.6)scale(0.2 -0.2)">
      <defs>
       <path id="TakaoPGothic-52" d="M 4072 63 
 L 3394 63 
@@ -16116,7 +16116,7 @@ L 945.2 239.85
     </g>
     <g id="text_16">
      <!-- ゑ -->
-     <g transform="translate(953.2 243.35)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 243.35)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3091" d="M 1319 4691 
 Q 2544 4719 3981 4878 
@@ -16181,7 +16181,7 @@ L 945.2 254.240625
     </g>
     <g id="text_17">
      <!-- ゐ -->
-     <g transform="translate(953.2 257.740625)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 257.740625)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3090" d="M 1266 4531 
 Q 2403 4578 3384 4775 
@@ -16245,7 +16245,7 @@ L 945.2 268.63125
     </g>
     <g id="text_18">
      <!-- え -->
-     <g transform="translate(953.2 272.13125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 272.13125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3048" d="M 3284 3981 
 Q 2534 4428 1628 4709 
@@ -16288,7 +16288,7 @@ L 945.2 283.021875
     </g>
     <g id="text_19">
      <!-- ゆ -->
-     <g transform="translate(953.2 286.521875)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 286.521875)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3086" d="M 1319 4503 
 Q 1084 3444 1084 2603 
@@ -16342,7 +16342,7 @@ L 945.2 297.4125
     </g>
     <g id="text_20">
      <!-- む -->
-     <g transform="translate(953.2 300.9125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 300.9125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3080" d="M 1794 4984 
 L 2284 4984 
@@ -16409,7 +16409,7 @@ L 945.2 311.803125
     </g>
     <g id="text_21">
      <!-- ほ -->
-     <g transform="translate(953.2 315.303125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 315.303125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-307b" d="M 2309 4588 
 Q 2850 4556 3213 4556 
@@ -16475,7 +16475,7 @@ L 945.2 326.19375
     </g>
     <g id="text_22">
      <!-- ぬ -->
-     <g transform="translate(953.2 329.69375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 329.69375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-306c" d="M 1169 4494 
 Q 1363 3813 1559 3328 
@@ -16550,7 +16550,7 @@ L 945.2 340.584375
     </g>
     <g id="text_23">
      <!-- ろ -->
-     <g transform="translate(953.2 344.084375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 344.084375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-308d" d="M 3725 4391 
 L 2003 2491 
@@ -16585,7 +16585,7 @@ L 945.2 354.975
     </g>
     <g id="text_24">
      <!-- わ -->
-     <g transform="translate(953.2 358.475)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 358.475)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-308f" d="M 541 3675 
 Q 1203 3750 1828 3884 
@@ -16646,7 +16646,7 @@ L 945.2 369.365625
     </g>
     <g id="text_25">
      <!-- ね -->
-     <g transform="translate(953.2 372.865625)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 372.865625)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-306d" d="M 306 3694 
 Q 919 3759 1553 3884 
@@ -16714,7 +16714,7 @@ L 945.2 383.75625
     </g>
     <g id="text_26">
      <!-- ち -->
-     <g transform="translate(953.2 387.25625)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 387.25625)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3061" d="M 300 4084 
 Q 866 4038 1625 4038 
@@ -16754,7 +16754,7 @@ L 945.2 398.146875
     </g>
     <g id="text_27">
      <!-- み -->
-     <g transform="translate(953.2 401.646875)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 401.646875)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-307f" d="M 1100 4416 
 Q 2019 4453 3150 4647 
@@ -16801,7 +16801,7 @@ L 945.2 412.5375
     </g>
     <g id="text_28">
      <!-- め -->
-     <g transform="translate(953.2 416.0375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 416.0375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3081" d="M 1556 4453 
 Q 1678 3878 1813 3456 
@@ -16851,7 +16851,7 @@ L 945.2 426.928125
     </g>
     <g id="text_29">
      <!-- ゝ -->
-     <g transform="translate(953.2 430.428125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 430.428125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-309d" d="M 1153 1069 
 Q 1975 1225 2534 1575 
@@ -16877,7 +16877,7 @@ L 945.2 441.31875
     </g>
     <g id="text_30">
      <!-- そ -->
-     <g transform="translate(953.2 444.81875)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 444.81875)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-305d" d="M 1119 4575 
 Q 2513 4641 3994 4813 
@@ -16917,7 +16917,7 @@ L 945.2 455.709375
     </g>
     <g id="text_31">
      <!-- せ -->
-     <g transform="translate(953.2 459.209375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 459.209375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-305b" d="M 3819 4922 
 L 4306 4922 
@@ -16964,7 +16964,7 @@ L 945.2 470.1
     </g>
     <g id="text_32">
      <!-- け -->
-     <g transform="translate(953.2 473.6)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 473.6)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3051" d="M 2209 3431 
 Q 2547 3413 2822 3413 
@@ -17010,7 +17010,7 @@ L 945.2 484.490625
     </g>
     <g id="text_33">
      <!-- ひ -->
-     <g transform="translate(953.2 487.990625)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 487.990625)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3072" d="M 244 3725 
 Q 1391 3972 2594 4494 
@@ -17047,7 +17047,7 @@ L 945.2 498.88125
     </g>
     <g id="text_34">
      <!-- あ -->
-     <g transform="translate(953.2 502.38125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 502.38125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3042" d="M 709 4134 
 Q 972 4116 1228 4116 
@@ -17115,7 +17115,7 @@ L 945.2 513.271875
     </g>
     <g id="text_35">
      <!-- い -->
-     <g transform="translate(953.2 516.771875)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 516.771875)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3044" d="M 3016 1447 
 Q 2553 122 1925 122 
@@ -17147,7 +17147,7 @@ L 945.2 527.6625
     </g>
     <g id="text_36">
      <!-- う -->
-     <g transform="translate(953.2 531.1625)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 531.1625)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3046" d="M 3194 3975 
 Q 2491 4413 1441 4728 
@@ -17179,7 +17179,7 @@ L 945.2 542.053125
     </g>
     <g id="text_37">
      <!-- お -->
-     <g transform="translate(953.2 545.553125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 545.553125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-304a" d="M 1791 4891 
 L 2266 4891 
@@ -17237,7 +17237,7 @@ L 945.2 556.44375
     </g>
     <g id="text_38">
      <!-- か -->
-     <g transform="translate(953.2 559.94375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 559.94375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-304b" d="M 531 3384 
 Q 1306 3503 1984 3584 
@@ -17283,7 +17283,7 @@ L 945.2 570.834375
     </g>
     <g id="text_39">
      <!-- き -->
-     <g transform="translate(953.2 574.334375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 574.334375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-304d" d="M 653 4063 
 Q 1500 4063 2238 4184 
@@ -17336,7 +17336,7 @@ L 945.2 585.225
     </g>
     <g id="text_40">
      <!-- く -->
-     <g transform="translate(953.2 588.725)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 588.725)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-304f" d="M 3125 -300 
 Q 2153 984 966 2047 
@@ -17363,7 +17363,7 @@ L 945.2 599.615625
     </g>
     <g id="text_41">
      <!-- こ -->
-     <g transform="translate(953.2 603.115625)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 603.115625)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3053" d="M 1006 4422 
 Q 1759 4363 2363 4363 
@@ -17400,7 +17400,7 @@ L 945.2 614.00625
     </g>
     <g id="text_42">
      <!-- さ -->
-     <g transform="translate(953.2 617.50625)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 617.50625)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3055" d="M 519 3694 
 Q 703 3688 941 3688 
@@ -17444,7 +17444,7 @@ L 945.2 628.396875
     </g>
     <g id="text_43">
      <!-- し -->
-     <g transform="translate(953.2 631.896875)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 631.896875)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3057" d="M 984 4884 
 L 1516 4884 
@@ -17471,7 +17471,7 @@ L 945.2 642.7875
     </g>
     <g id="text_44">
      <!-- す -->
-     <g transform="translate(953.2 646.2875)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 646.2875)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3059" d="M 3000 5075 
 L 3494 5075 
@@ -17528,7 +17528,7 @@ L 945.2 657.178125
     </g>
     <g id="text_45">
      <!-- た -->
-     <g transform="translate(953.2 660.678125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 660.678125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-305f" d="M 559 3994 
 Q 1013 3953 1428 3953 
@@ -17576,7 +17576,7 @@ L 945.2 671.56875
     </g>
     <g id="text_46">
      <!-- つ -->
-     <g transform="translate(953.2 675.06875)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 675.06875)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3064" d="M 447 3541 
 Q 2566 4116 3641 4116 
@@ -17604,7 +17604,7 @@ L 945.2 685.959375
     </g>
     <g id="text_47">
      <!-- て -->
-     <g transform="translate(953.2 689.459375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 689.459375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3066" d="M 263 4031 
 Q 2659 4363 5147 4556 
@@ -17632,7 +17632,7 @@ L 945.2 700.35
     </g>
     <g id="text_48">
      <!-- と -->
-     <g transform="translate(953.2 703.85)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 703.85)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3068" d="M 4563 56 
 Q 3541 -72 2791 -72 
@@ -17662,7 +17662,7 @@ L 945.2 714.740625
     </g>
     <g id="text_49">
      <!-- な -->
-     <g transform="translate(953.2 718.240625)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 718.240625)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-306a" d="M 3738 3150 
 L 4203 3150 
@@ -17726,7 +17726,7 @@ L 945.2 729.13125
     </g>
     <g id="text_50">
      <!-- に -->
-     <g transform="translate(953.2 732.63125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 732.63125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-306b" d="M 831 -38 
 Q 666 1125 666 2081 
@@ -17772,7 +17772,7 @@ L 945.2 743.521875
     </g>
     <g id="text_51">
      <!-- の -->
-     <g transform="translate(953.2 747.021875)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 747.021875)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-306e" d="M 2991 469 
 Q 5147 766 5147 2425 
@@ -17810,7 +17810,7 @@ L 945.2 757.9125
     </g>
     <g id="text_52">
      <!-- は -->
-     <g transform="translate(953.2 761.4125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 761.4125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-306f" d="M 3872 4878 
 L 4347 4878 
@@ -17870,7 +17870,7 @@ L 945.2 772.303125
     </g>
     <g id="text_53">
      <!-- ふ -->
-     <g transform="translate(953.2 775.803125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 775.803125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3075" d="M 1947 997 
 Q 2419 334 3041 334 
@@ -17917,7 +17917,7 @@ L 945.2 786.69375
     </g>
     <g id="text_54">
      <!-- へ -->
-     <g transform="translate(953.2 790.19375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 790.19375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3078" d="M 353 2022 
 Q 1266 2681 2131 3653 
@@ -17944,7 +17944,7 @@ L 945.2 801.084375
     </g>
     <g id="text_55">
      <!-- ま -->
-     <g transform="translate(953.2 804.584375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 804.584375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-307e" d="M 3134 5075 
 L 3159 4141 
@@ -18016,7 +18016,7 @@ L 945.2 815.475
     </g>
     <g id="text_56">
      <!-- も -->
-     <g transform="translate(953.2 818.975)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 818.975)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3082" d="M 422 3950 
 Q 1047 3844 1728 3816 
@@ -18069,7 +18069,7 @@ L 945.2 829.865625
     </g>
     <g id="text_57">
      <!-- や -->
-     <g transform="translate(953.2 833.365625)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 833.365625)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3084" d="M 206 2725 
 Q 928 2991 1494 3181 
@@ -18109,7 +18109,7 @@ L 945.2 844.25625
     </g>
     <g id="text_58">
      <!-- よ -->
-     <g transform="translate(953.2 847.75625)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 847.75625)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3088" d="M 2481 5019 
 L 2969 5019 
@@ -18158,7 +18158,7 @@ L 945.2 858.646875
     </g>
     <g id="text_59">
      <!-- ら -->
-     <g transform="translate(953.2 862.146875)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 862.146875)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3089" d="M 2931 3928 
 Q 2128 4478 1388 4750 
@@ -18196,7 +18196,7 @@ L 945.2 873.0375
     </g>
     <g id="text_60">
      <!-- り -->
-     <g transform="translate(953.2 876.5375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 876.5375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-308a" d="M 2375 2681 
 Q 1828 1563 1300 1563 
@@ -18232,7 +18232,7 @@ L 945.2 887.428125
     </g>
     <g id="text_61">
      <!-- る -->
-     <g transform="translate(953.2 890.928125)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 890.928125)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-308b" d="M 3813 4397 
 L 2034 2584 
@@ -18277,7 +18277,7 @@ L 945.2 901.81875
     </g>
     <g id="text_62">
      <!-- れ -->
-     <g transform="translate(953.2 905.31875)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 905.31875)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-308c" d="M 475 3694 
 Q 1213 3791 1734 3906 
@@ -18332,7 +18332,7 @@ L 945.2 916.209375
     </g>
     <g id="text_63">
      <!-- を -->
-     <g transform="translate(953.2 919.709375)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 919.709375)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3092" d="M 709 4263 
 Q 1159 4225 1975 4225 
@@ -18379,7 +18379,7 @@ L 945.2 930.6
     </g>
     <g id="text_64">
      <!-- ん -->
-     <g transform="translate(953.2 934.1)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(953.2 934.1)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-3093" d="M 341 31 
 Q 1366 2316 2747 4934 
@@ -18407,7 +18407,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p78379ba663">
+  <clipPath id="pf7738e9316">
    <rect x="135" y="129.6" width="837" height="815.4"/>
   </clipPath>
  </defs>
