@@ -68,6 +68,8 @@ When the training of a model is finished, the trained weights are saved as .h5 f
 As explained in the section [Dataset](#dataset), the dataset is a bit unbalanced (with some classes only having ~400 samples, way less than 6000 samples for other classes). Because of this, it's not fair to evaluate these models based purely on accuracy. It is necessary to use a multiclass ROC analysis .............
 
 TODO - show / analyse results
+<img align="center" alt="Classes Inbalance" src="/examples/results/scatter_accuracy_auc.svg">
+
 
 ## Discussion
 
