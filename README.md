@@ -68,7 +68,47 @@ When the training of a model is finished, the trained weights are saved as .h5 f
 As explained in the section [Dataset](#dataset), the dataset is a bit unbalanced (with some classes only having ~400 samples, way less than 6000 samples for other classes). Because of this, it's not fair to evaluate these models based purely on accuracy. It is necessary to use a multiclass ROC analysis .............
 
 TODO - show / analyse results
-<img align="center" alt="Classes Inbalance" src="/examples/results/">
+
+<p align="center">
+  <img align="center" alt="Classes Inbalance" src="/examples/dark/results/CNN_1_adam_auc_x_CNN_2_sgd_auc.svg#gh-light-mode-only">
+  <img align="center" alt="Classes Inbalance" src="/examples/light/results/CNN_1_adam_auc_x_CNN_2_sgd_auc.svg#gh-dark-mode-only">
+</p>
+
+<p align="center">
+  <img align="center" alt="Classes Inbalance" src="/examples/dark/results/CNN_dense_auc_x_CNN_dense_batch_norm_auc.svg#gh-light-mode-only">
+  <img align="center" alt="Classes Inbalance" src="/examples/light/results/CNN_dense_auc_x_CNN_dense_batch_norm_auc.svg#gh-dark-mode-only">
+</p>
+
+<p align="center">
+  <img align="center" alt="Classes Inbalance" src="/examples/dark/results/NN_2_adam_auc_x_NN_2_sgd_auc.svg#gh-light-mode-only">
+  <img align="center" alt="Classes Inbalance" src="/examples/light/results/NN_2_adam_auc_x_NN_2_sgd_auc.svg#gh-dark-mode-only">
+</p>
+
+<p align="center">
+  <img align="center" alt="Classes Inbalance" src="/examples/dark/results/NN_dense_auc_x_NN_dense_batch_norm_auc.svg#gh-light-mode-only">
+  <img align="center" alt="Classes Inbalance" src="/examples/light/results/NN_dense_auc_x_NN_dense_batch_norm_auc.svg#gh-dark-mode-only">
+</p>
+
+<p align="center">
+  <img align="center" alt="Classes Inbalance" src="/examples/dark/results/NN_dense_batch_norm_auc_x_CNN_dense_batch_norm_auc.svg#gh-light-mode-only">
+  <img align="center" alt="Classes Inbalance" src="/examples/light/results/NN_dense_batch_norm_auc_x_CNN_dense_batch_norm_auc.svg#gh-dark-mode-only">
+</p>
+
+<p align="center">
+  <img align="center" alt="Classes Inbalance" src="/examples/dark/results/ROC_nightmare.svg#gh-light-mode-only">
+  <img align="center" alt="Classes Inbalance" src="/examples/light/results/ROC_nightmare.svg#gh-dark-mode-only">
+</p>
+
+<p align="center">
+  <img align="center" alt="Classes Inbalance" src="/examples/dark/results/accuracies.svg#gh-light-mode-only">
+  <img align="center" alt="Classes Inbalance" src="/examples/light/results/accuracies.svg#gh-dark-mode-only">
+</p>
+
+<p align="center">
+  <img align="center" alt="Classes Inbalance" src="/examples/dark/results/auc_weighted_avg.svg#gh-light-mode-only">
+  <img align="center" alt="Classes Inbalance" src="/examples/light/results/auc_weighted_avg.svg#gh-dark-mode-only">
+</p>
+
 <p align="center">
   <img align="center" alt="Classes Inbalance" src="/examples/dark/results/scatter_accuracy_auc.svg#gh-light-mode-only">
   <img align="center" alt="Classes Inbalance" src="/examples/light/results/scatter_accuracy_auc.svg#gh-dark-mode-only">
