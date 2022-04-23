@@ -97,7 +97,7 @@ The idea here is not very different than what was first introduced. The only dif
   <img align="center" alt="ROC Nightmare" src="/examples/light/results/ROC_nightmare.svg#gh-dark-mode-only">
 </p>
 
-It's possible to see that some curves are better than the others (the highest and most to the left curves - nearer to the "ROC heaven") however it is very hard to draw any assumptions or conclusions from it. The next option would be to calculate the AUC values for every ROC Curve associated with every model.<br>
+It's reasonable to say that some curves are better than the others (the highest and most to the left curves - nearer to the "ROC heaven") however it is very hard to draw any assumptions or conclusions from it. The next option is to calculate the AUC values for every ROC Curve associated with every model.<br>
 This analysis can be interesting to see how well the models learned every class, leading to some insights about how hard a given class can be to properly learn. The comparisions that are gonna be made consists in:
 - Highest accuracy NN with Adam optimizer vs Highest accuracy NN with SGD optimizer;
 - Highest accuracy NN with Adam optimizer vs Highest accuracy NN with SGD optimizer;
@@ -111,7 +111,8 @@ This analysis can be interesting to see how well the models learned every class,
   <img align="center" alt="NN_2_adam_auc_x_NN_2_sgd_auc" src="/examples/light/results/NN_2_adam_auc_x_NN_2_sgd_auc.svg#gh-dark-mode-only">
 </p>
 
-Bla bla bla
+The first observation to be made, and that is valid for all models, is that all AUC values are above 0.90, i.e., even classes with less samples still managed to be decently learned by all models.<br>
+Still, the learning of some classes can differ between the models. Take a look at the ゐ class, that has only 400 training samples, the NN_2_adam achieved an AUC value of ~0.97, whereas the NN_2_sgd reached ~0.94; it's a small difference, mas not negligible, even more so when the NN_2_adam had higher accuracy (77.94%) than the NN_2_sgd (70.35%).
 
 #### CNN_1_adam vs CNN_2_sgd
 <p align="center">
@@ -119,7 +120,7 @@ Bla bla bla
   <img align="center" alt="CNN_1_adam_auc_x_CNN_2_sgd_auc" src="/examples/light/results/CNN_1_adam_auc_x_CNN_2_sgd_auc.svg#gh-dark-mode-only">
 </p>
 
-Bla bla bla
+Now comparing the different optimizer's impact on the CNN models. The first thing to be noticed, is that the CNNs consistently present AUC values of at least ~0.97. Next, the AUC values between the models are pretty close, but curiosly enough the ゐ class presents the lowest AUC value for the CNN_2_sgd, in contrast to the stable AUC value of ~0.99 for the CNN_2_adam model. And last, the す class, presents the same dips for both models. 
 
 #### NN_dense vs NN_dense_batch_norm
 <p align="center">
@@ -127,7 +128,7 @@ Bla bla bla
   <img align="center" alt="NN_dense_auc_x_NN_dense_batch_norm_auc" src="/examples/light/results/NN_dense_auc_x_NN_dense_batch_norm_auc.svg#gh-dark-mode-only">
 </p>
 
-Bla bla bla
+Now it's the dense NN models turn. The only interesting aspect to be pointed out, it's that the AUC values remain between ~0.98 and ~1.00 for all classes. But in fact, is difficult to say anything about the models just by looking at these plots. The final conclusion will only be possible in the next section (spoiler!). 
 
 #### CNN_dense vs CNN_dense_batch_norm
 <p align="center">
@@ -135,7 +136,7 @@ Bla bla bla
   <img align="center" alt="CNN_dense_auc_x_CNN_dense_batch_norm_auc" src="/examples/light/results/CNN_dense_auc_x_CNN_dense_batch_norm_auc.svg#gh-dark-mode-only">
 </p>
 
-Bla bla bla
+Surprisingly, for the densest CNNs, it is possible to notice that the batch normalization helped to keep a slightly average AUC value.
 
 #### NN_dense_batch_norm vs CNN_dense_batch_norm
 <p align="center">
@@ -143,25 +144,56 @@ Bla bla bla
   <img align="center" alt="NN_dense_batch_norm_auc_x_CNN_dense_batch_norm_auc" src="/examples/light/results/NN_dense_batch_norm_auc_x_CNN_dense_batch_norm_auc.svg#gh-dark-mode-only">
 </p>
 
+At last, comparing the "batch normalized and densest" NN and CNN models, it's only possible to notice that the CNN kept a higher AUC value, in average, when compared to the NN.<br>
+The final results about which is the best NN and CNN model, and which is the best between the two, will be presented in the next section.
 
 ---------------------------------------------------------------------
-That's why it's better to use the Weighted Average AUC.
-
 ### Weighted Average AUC
-Finally, the 
-----------------------------------------------------------------------
+From the comparisions made in the last section, it is clear that is difficult to make a clear decision of what is the best model, and in some sentences, an "average AUC value" was mentioned. That is because this is the strategy used to evaluate multiclass AUC analyses.<br>
+So, in order to summarize the AUC values associated with every class for every model, a **weighted average** was used, where the classes with less samples have higher weight than the ones with more samples\*. The logic is simple, models that managed to learn classes with less samples, just as good as for classes with more samples, deserves to get a higher score.<br>
+The next figure shows the results for the weighted average AUC.
 
-
-
-<p align="center">
-  <img align="center" alt="Classes Inbalance" src="/examples/dark/results/auc_weighted_avg.svg#gh-light-mode-only">
-  <img align="center" alt="Classes Inbalance" src="/examples/light/results/auc_weighted_avg.svg#gh-dark-mode-only">
-</p>
+PS.: the weights are calculated as the inverse of the number of samples for each class.
 
 <p align="center">
-  <img align="center" alt="Classes Inbalance" src="/examples/dark/results/scatter_accuracy_auc.svg#gh-light-mode-only">
-  <img align="center" alt="Classes Inbalance" src="/examples/light/results/scatter_accuracy_auc.svg#gh-dark-mode-only">
+  <img align="center" alt="auc_weighted_avg" src="/examples/dark/results/auc_weighted_avg.svg#gh-light-mode-only">
+  <img align="center" alt="auc_weighted_avg" src="/examples/light/results/auc_weighted_avg.svg#gh-dark-mode-only">
 </p>
+
+At last, the final summarization for the AUC values. Conclusions:
+- The Adam optimizer granted higher average AUC values, more considerably for the NN models;
+- The average AUC value for the CNN models are all very close to each other, meaning it's reasonable comparing them by only using their accuracy;
+- As for the NNs, it's better to take both metrics in consideration: accuracy and weighted average AUC;
+
+## Conclusion
+To decide which is the best NN and CNN model, and what's the best between the two, the conclusions made from both the accuracy and multiclass AUC analyses will be used. Here is the final plot to help us further:
+
+<p align="center">
+  <img align="center" alt="scatter_accuracy_auc" src="/examples/dark/results/scatter_accuracy_auc.svg#gh-light-mode-only">
+  <img align="center" alt="scatter_accuracy_auc" src="/examples/light/results/scatter_accuracy_auc.svg#gh-dark-mode-only">
+</p>
+
+For the NN models:
+- NNs that used the SGD optimizer accomplished the lowest accuracy and AUC values;
+- Next the NNs that used the Adam optimizer achieved better accuracy and slightly better AUC values;
+- At last, the denser NN models achieved better accuracy and AUC values;
+
+Therefore, the best NN model is the **NN_dense_batch_norm**, with both higher accuracy and AUC values.
+
+As fot the CNN models:
+- Similarly to the NN models, the CNNs that used the SGD optimizer got the worst results, with lower accuracy and AUC values;
+- However the CNN_dense model got the second lowest accuracy among all CNN models;
+- Although the CNN_dense_batch_norm got the best accuracy, followed immediately by the CNN_1_adam and CNN_2_adam models;
+
+Since the CNN_dense_batch_norm, CNN_1_adam and CNN_2_adam all got very similar results, both for the accuracy and multiclass AUC, to decide which was the best, another factor will be taken into consideration: the number of trainable parameters.
+
+|         Model        | # of trainable parameters |
+| -------------------- | ------------------------- |
+|       CNN_1_adam     |          201073           |
+|       CNN_2_adam     |          922225           |
+| CNN_dense_batch_norm |         2888719           |
+
+So, with only 201073 trainable parameters, ~4.6x less than the CNN_2_adam model and ~14.4x less than the CNN_dense_batch_norm, the **CNN_1_adam** achieved pretty much the same performance as more complex models, being also **better than the best NN model**.
 
 ## Discussion
 
