@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-04-21T21:56:11.062103</dc:date>
+    <dc:date>2022-04-23T16:52:45.468620</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -45,7 +45,7 @@ L 109.025431 1251.05216
 L 109.025431 42.243198 
 L 71.8875 42.243198 
 z
-" clip-path="url(#pba96484377)" style="fill: #800080"/>
+" clip-path="url(#p9c09988dd5)" style="fill: #800080"/>
    </g>
    <g id="patch_4">
     <path d="M 118.309914 1251.05216 
@@ -53,7 +53,7 @@ L 155.447845 1251.05216
 L 155.447845 46.527239 
 L 118.309914 46.527239 
 z
-" clip-path="url(#pba96484377)" style="fill: #800080"/>
+" clip-path="url(#p9c09988dd5)" style="fill: #800080"/>
    </g>
    <g id="patch_5">
     <path d="M 164.732328 1251.05216 
@@ -61,7 +61,7 @@ L 201.870259 1251.05216
 L 201.870259 45.514354 
 L 164.732328 45.514354 
 z
-" clip-path="url(#pba96484377)" style="fill: #800080"/>
+" clip-path="url(#p9c09988dd5)" style="fill: #800080"/>
    </g>
    <g id="patch_6">
     <path d="M 211.154741 1251.05216 
@@ -69,7 +69,7 @@ L 248.292672 1251.05216
 L 248.292672 48.459906 
 L 211.154741 48.459906 
 z
-" clip-path="url(#pba96484377)" style="fill: #800080"/>
+" clip-path="url(#p9c09988dd5)" style="fill: #800080"/>
    </g>
    <g id="patch_7">
     <path d="M 257.577155 1251.05216 
@@ -77,7 +77,7 @@ L 294.715086 1251.05216
 L 294.715086 46.520461 
 L 257.577155 46.520461 
 z
-" clip-path="url(#pba96484377)" style="fill: #800080"/>
+" clip-path="url(#p9c09988dd5)" style="fill: #800080"/>
    </g>
    <g id="patch_8">
     <path d="M 303.999569 1251.05216 
@@ -85,23 +85,23 @@ L 341.1375 1251.05216
 L 341.1375 43.262767 
 L 303.999569 43.262767 
 z
-" clip-path="url(#pba96484377)" style="fill: #800080"/>
+" clip-path="url(#p9c09988dd5)" style="fill: #800080"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m4b74919553" d="M 0 0 
+       <path id="m4a41a992ce" d="M 0 0 
 L 0 3.5 
-" style="stroke: #000000; stroke-width: 0.8"/>
+" style="stroke: #ffffff; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m4b74919553" x="90.456466" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="90.456466" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
       <!-- CNN_1_adam -->
-      <g transform="translate(32.224702 316.721385)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(32.224702 316.721385)rotate(-20)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-43" d="M 4353 1088 
 Q 4181 694 3859 428 
@@ -255,12 +255,12 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4b74919553" x="136.878879" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="136.878879" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
       <!-- CNN_1_sgd -->
-      <g transform="translate(87.609435 313.459368)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(87.609435 313.459368)rotate(-20)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-73" d="M 2234 2547 
 Q 1938 2931 1484 2931 
@@ -342,12 +342,12 @@ z
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4b74919553" x="183.301293" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="183.301293" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
       <!-- CNN_2_adam -->
-      <g transform="translate(125.06953 316.721385)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(125.06953 316.721385)rotate(-20)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-32" d="M 3659 63 
 L 447 63 
@@ -388,12 +388,12 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4b74919553" x="229.723707" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="229.723707" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
       <!-- CNN_2_sgd -->
-      <g transform="translate(180.454262 313.459368)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(180.454262 313.459368)rotate(-20)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-43"/>
        <use xlink:href="#TakaoPGothic-4e" x="72.509766"/>
        <use xlink:href="#TakaoPGothic-4e" x="148.486328"/>
@@ -409,12 +409,12 @@ z
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4b74919553" x="276.146121" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="276.146121" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
       <!-- CNN_dense -->
-      <g transform="translate(226.342226 313.653892)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(226.342226 313.653892)rotate(-20)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-65" d="M 863 1594 
 Q 891 1041 1209 722 
@@ -470,12 +470,12 @@ z
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4b74919553" x="322.568534" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="322.568534" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
       <!-- CNN_dense_batch_norm -->
-      <g transform="translate(215.252515 334.586593)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(215.252515 334.586593)rotate(-20)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-62" d="M 1125 2731 
 Q 1550 3341 2219 3341 
@@ -615,7 +615,7 @@ z
     </g>
     <g id="text_7">
      <!-- Models -->
-     <g transform="translate(189.358594 347.862634)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(189.358594 347.862634)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-4d" d="M 5147 63 
 L 4597 63 
@@ -663,17 +663,17 @@ z
     <g id="ytick_1">
      <g id="line2d_7">
       <defs>
-       <path id="m7ab3fb1ecc" d="M 0 0 
+       <path id="ma711408f41" d="M 0 0 
 L -3.5 0 
-" style="stroke: #000000; stroke-width: 0.8"/>
+" style="stroke: #ffffff; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="58.425" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="58.425" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
       <!-- 0.800 -->
-      <g transform="translate(23.589062 284.300712)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(23.589062 284.300712)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-30" d="M 2038 4725 
 Q 2881 4725 3334 3944 
@@ -754,12 +754,12 @@ z
     <g id="ytick_2">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="58.425" y="250.227376" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="58.425" y="250.227376" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
       <!-- 0.825 -->
-      <g transform="translate(23.589062 253.972688)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(23.589062 253.972688)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-35" d="M 1178 2603 
 Q 1634 2963 2172 2963 
@@ -796,12 +796,12 @@ z
     <g id="ytick_3">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="58.425" y="219.899352" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="58.425" y="219.899352" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
       <!-- 0.850 -->
-      <g transform="translate(23.589062 223.644665)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(23.589062 223.644665)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-38" x="89.404297"/>
@@ -813,12 +813,12 @@ z
     <g id="ytick_4">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="58.425" y="189.571328" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="58.425" y="189.571328" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
       <!-- 0.875 -->
-      <g transform="translate(23.589062 193.316641)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(23.589062 193.316641)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-37" d="M 3597 4263 
 Q 2238 2106 1778 63 
@@ -842,12 +842,12 @@ z
     <g id="ytick_5">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="58.425" y="159.243305" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="58.425" y="159.243305" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
       <!-- 0.900 -->
-      <g transform="translate(23.589062 162.988617)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(23.589062 162.988617)scale(0.1 -0.1)">
        <defs>
         <path id="TakaoPGothic-39" d="M 2984 2356 
 Q 2544 1716 1813 1716 
@@ -888,12 +888,12 @@ z
     <g id="ytick_6">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="58.425" y="128.915281" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="58.425" y="128.915281" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
       <!-- 0.925 -->
-      <g transform="translate(23.589062 132.660593)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(23.589062 132.660593)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -905,12 +905,12 @@ z
     <g id="ytick_7">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="58.425" y="98.587257" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="58.425" y="98.587257" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
       <!-- 0.950 -->
-      <g transform="translate(23.589062 102.33257)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(23.589062 102.33257)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -922,12 +922,12 @@ z
     <g id="ytick_8">
      <g id="line2d_14">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="58.425" y="68.259233" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="58.425" y="68.259233" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_15">
       <!-- 0.975 -->
-      <g transform="translate(23.589062 72.004546)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(23.589062 72.004546)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -939,12 +939,12 @@ z
     <g id="ytick_9">
      <g id="line2d_15">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="58.425" y="37.93121" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="58.425" y="37.93121" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_16">
       <!-- 1.000 -->
-      <g transform="translate(23.589062 41.676522)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(23.589062 41.676522)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-31"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-30" x="89.404297"/>
@@ -955,7 +955,7 @@ z
     </g>
     <g id="text_17">
      <!-- Weighted Average AUC -->
-     <g transform="translate(17.63125 207.44645)rotate(-90)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(17.63125 207.44645)rotate(-90)scale(0.1 -0.1)">
       <defs>
        <path id="TakaoPGothic-57" d="M 5888 4634 
 L 4466 0 
@@ -1092,7 +1092,7 @@ L 354.6 25.8
    </g>
    <g id="text_18">
     <!-- 0.996 -->
-    <g transform="translate(76.538497 40.343198)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(76.538497 40.343198)scale(0.1 -0.1)">
      <defs>
       <path id="TakaoPGothic-36" d="M 1056 2328 
 Q 1509 2981 2234 2981 
@@ -1131,7 +1131,7 @@ z
    </g>
    <g id="text_19">
     <!-- 0.993 -->
-    <g transform="translate(122.960911 44.627239)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(122.960911 44.627239)scale(0.1 -0.1)">
      <defs>
       <path id="TakaoPGothic-33" d="M 2381 2419 
 Q 3506 2219 3506 1281 
@@ -1171,7 +1171,7 @@ z
    </g>
    <g id="text_20">
     <!-- 0.994 -->
-    <g transform="translate(169.383324 43.614354)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(169.383324 43.614354)scale(0.1 -0.1)">
      <defs>
       <path id="TakaoPGothic-34" d="M 3813 1159 
 L 3056 1159 
@@ -1205,7 +1205,7 @@ z
    </g>
    <g id="text_21">
     <!-- 0.991 -->
-    <g transform="translate(215.805738 46.559906)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(215.805738 46.559906)scale(0.1 -0.1)">
      <use xlink:href="#TakaoPGothic-30"/>
      <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
      <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1215,7 +1215,7 @@ z
    </g>
    <g id="text_22">
     <!-- 0.993 -->
-    <g transform="translate(262.228152 44.620461)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(262.228152 44.620461)scale(0.1 -0.1)">
      <use xlink:href="#TakaoPGothic-30"/>
      <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
      <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1225,7 +1225,7 @@ z
    </g>
    <g id="text_23">
     <!-- 0.996 -->
-    <g transform="translate(308.650566 41.362767)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(308.650566 41.362767)scale(0.1 -0.1)">
      <use xlink:href="#TakaoPGothic-30"/>
      <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
      <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1235,7 +1235,7 @@ z
    </g>
    <g id="text_24">
     <!-- Convolutional Neural Networks -->
-    <g transform="translate(118.999687 19.8)scale(0.12 -0.12)">
+    <g style="fill: #ffffff" transform="translate(118.999687 19.8)scale(0.12 -0.12)">
      <defs>
       <path id="TakaoPGothic-75" d="M 3284 63 
 L 2772 63 
@@ -1342,7 +1342,7 @@ L 463.625431 1251.05216
 L 463.625431 59.672509 
 L 426.4875 59.672509 
 z
-" clip-path="url(#pb55e1279e5)" style="fill: #00ffff"/>
+" clip-path="url(#p73bf4cc4d7)" style="fill: #00ffff"/>
    </g>
    <g id="patch_15">
     <path d="M 472.909914 1251.05216 
@@ -1350,7 +1350,7 @@ L 510.047845 1251.05216
 L 510.047845 82.367944 
 L 472.909914 82.367944 
 z
-" clip-path="url(#pb55e1279e5)" style="fill: #00ffff"/>
+" clip-path="url(#p73bf4cc4d7)" style="fill: #00ffff"/>
    </g>
    <g id="patch_16">
     <path d="M 519.332328 1251.05216 
@@ -1358,7 +1358,7 @@ L 556.470259 1251.05216
 L 556.470259 54.560515 
 L 519.332328 54.560515 
 z
-" clip-path="url(#pb55e1279e5)" style="fill: #00ffff"/>
+" clip-path="url(#p73bf4cc4d7)" style="fill: #00ffff"/>
    </g>
    <g id="patch_17">
     <path d="M 565.754741 1251.05216 
@@ -1366,7 +1366,7 @@ L 602.892672 1251.05216
 L 602.892672 72.84974 
 L 565.754741 72.84974 
 z
-" clip-path="url(#pb55e1279e5)" style="fill: #00ffff"/>
+" clip-path="url(#p73bf4cc4d7)" style="fill: #00ffff"/>
    </g>
    <g id="patch_18">
     <path d="M 612.177155 1251.05216 
@@ -1374,7 +1374,7 @@ L 649.315086 1251.05216
 L 649.315086 47.65005 
 L 612.177155 47.65005 
 z
-" clip-path="url(#pb55e1279e5)" style="fill: #00ffff"/>
+" clip-path="url(#p73bf4cc4d7)" style="fill: #00ffff"/>
    </g>
    <g id="patch_19">
     <path d="M 658.599569 1251.05216 
@@ -1382,18 +1382,18 @@ L 695.7375 1251.05216
 L 695.7375 45.985806 
 L 658.599569 45.985806 
 z
-" clip-path="url(#pb55e1279e5)" style="fill: #00ffff"/>
+" clip-path="url(#p73bf4cc4d7)" style="fill: #00ffff"/>
    </g>
    <g id="matplotlib.axis_3">
     <g id="xtick_7">
      <g id="line2d_16">
       <g>
-       <use xlink:href="#m4b74919553" x="445.056466" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="445.056466" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_25">
       <!-- NN_1_adam -->
-      <g transform="translate(393.638942 314.241204)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(393.638942 314.241204)rotate(-20)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-4e"/>
        <use xlink:href="#TakaoPGothic-4e" x="75.976562"/>
        <use xlink:href="#TakaoPGothic-5f" x="151.953125"/>
@@ -1409,12 +1409,12 @@ z
     <g id="xtick_8">
      <g id="line2d_17">
       <g>
-       <use xlink:href="#m4b74919553" x="491.478879" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="491.478879" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_26">
       <!-- NN_1_sgd -->
-      <g transform="translate(449.023674 310.979187)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(449.023674 310.979187)rotate(-20)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-4e"/>
        <use xlink:href="#TakaoPGothic-4e" x="75.976562"/>
        <use xlink:href="#TakaoPGothic-5f" x="151.953125"/>
@@ -1429,12 +1429,12 @@ z
     <g id="xtick_9">
      <g id="line2d_18">
       <g>
-       <use xlink:href="#m4b74919553" x="537.901293" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="537.901293" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_27">
       <!-- NN_2_adam -->
-      <g transform="translate(486.48377 314.241204)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(486.48377 314.241204)rotate(-20)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-4e"/>
        <use xlink:href="#TakaoPGothic-4e" x="75.976562"/>
        <use xlink:href="#TakaoPGothic-5f" x="151.953125"/>
@@ -1450,12 +1450,12 @@ z
     <g id="xtick_10">
      <g id="line2d_19">
       <g>
-       <use xlink:href="#m4b74919553" x="584.323707" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="584.323707" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_28">
       <!-- NN_2_sgd -->
-      <g transform="translate(541.868502 310.979187)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(541.868502 310.979187)rotate(-20)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-4e"/>
        <use xlink:href="#TakaoPGothic-4e" x="75.976562"/>
        <use xlink:href="#TakaoPGothic-5f" x="151.953125"/>
@@ -1470,12 +1470,12 @@ z
     <g id="xtick_11">
      <g id="line2d_20">
       <g>
-       <use xlink:href="#m4b74919553" x="630.746121" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="630.746121" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_29">
       <!-- NN_dense -->
-      <g transform="translate(587.756466 311.173711)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(587.756466 311.173711)rotate(-20)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-4e"/>
        <use xlink:href="#TakaoPGothic-4e" x="75.976562"/>
        <use xlink:href="#TakaoPGothic-5f" x="151.953125"/>
@@ -1490,12 +1490,12 @@ z
     <g id="xtick_12">
      <g id="line2d_21">
       <g>
-       <use xlink:href="#m4b74919553" x="677.168534" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4a41a992ce" x="677.168534" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_30">
       <!-- NN_dense_batch_norm -->
-      <g transform="translate(576.666754 332.106413)rotate(-20)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(576.666754 332.106413)rotate(-20)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-4e"/>
        <use xlink:href="#TakaoPGothic-4e" x="75.976562"/>
        <use xlink:href="#TakaoPGothic-5f" x="151.953125"/>
@@ -1520,7 +1520,7 @@ z
     </g>
     <g id="text_31">
      <!-- Models -->
-     <g transform="translate(543.958594 345.382454)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(543.958594 345.382454)scale(0.1 -0.1)">
       <use xlink:href="#TakaoPGothic-4d"/>
       <use xlink:href="#TakaoPGothic-6f" x="90.185547"/>
       <use xlink:href="#TakaoPGothic-64" x="150.585938"/>
@@ -1534,12 +1534,12 @@ z
     <g id="ytick_10">
      <g id="line2d_22">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="413.025" y="280.5554" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="413.025" y="280.5554" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_32">
       <!-- 0.800 -->
-      <g transform="translate(378.189062 284.300712)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(378.189062 284.300712)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-38" x="89.404297"/>
@@ -1551,12 +1551,12 @@ z
     <g id="ytick_11">
      <g id="line2d_23">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="413.025" y="250.227376" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="413.025" y="250.227376" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_33">
       <!-- 0.825 -->
-      <g transform="translate(378.189062 253.972688)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(378.189062 253.972688)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-38" x="89.404297"/>
@@ -1568,12 +1568,12 @@ z
     <g id="ytick_12">
      <g id="line2d_24">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="413.025" y="219.899352" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="413.025" y="219.899352" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_34">
       <!-- 0.850 -->
-      <g transform="translate(378.189062 223.644665)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(378.189062 223.644665)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-38" x="89.404297"/>
@@ -1585,12 +1585,12 @@ z
     <g id="ytick_13">
      <g id="line2d_25">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="413.025" y="189.571328" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="413.025" y="189.571328" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_35">
       <!-- 0.875 -->
-      <g transform="translate(378.189062 193.316641)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(378.189062 193.316641)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-38" x="89.404297"/>
@@ -1602,12 +1602,12 @@ z
     <g id="ytick_14">
      <g id="line2d_26">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="413.025" y="159.243305" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="413.025" y="159.243305" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_36">
       <!-- 0.900 -->
-      <g transform="translate(378.189062 162.988617)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(378.189062 162.988617)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1619,12 +1619,12 @@ z
     <g id="ytick_15">
      <g id="line2d_27">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="413.025" y="128.915281" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="413.025" y="128.915281" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_37">
       <!-- 0.925 -->
-      <g transform="translate(378.189062 132.660593)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(378.189062 132.660593)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1636,12 +1636,12 @@ z
     <g id="ytick_16">
      <g id="line2d_28">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="413.025" y="98.587257" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="413.025" y="98.587257" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_38">
       <!-- 0.950 -->
-      <g transform="translate(378.189062 102.33257)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(378.189062 102.33257)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1653,12 +1653,12 @@ z
     <g id="ytick_17">
      <g id="line2d_29">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="413.025" y="68.259233" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="413.025" y="68.259233" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_39">
       <!-- 0.975 -->
-      <g transform="translate(378.189062 72.004546)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(378.189062 72.004546)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-30"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1670,12 +1670,12 @@ z
     <g id="ytick_18">
      <g id="line2d_30">
       <g>
-       <use xlink:href="#m7ab3fb1ecc" x="413.025" y="37.93121" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#ma711408f41" x="413.025" y="37.93121" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_40">
       <!-- 1.000 -->
-      <g transform="translate(378.189062 41.676522)scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(378.189062 41.676522)scale(0.1 -0.1)">
        <use xlink:href="#TakaoPGothic-31"/>
        <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
        <use xlink:href="#TakaoPGothic-30" x="89.404297"/>
@@ -1686,7 +1686,7 @@ z
     </g>
     <g id="text_41">
      <!-- Weighted Average AUC -->
-     <g transform="translate(372.23125 207.44645)rotate(-90)scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(372.23125 207.44645)rotate(-90)scale(0.1 -0.1)">
       <use xlink:href="#TakaoPGothic-57"/>
       <use xlink:href="#TakaoPGothic-65" x="92.822266"/>
       <use xlink:href="#TakaoPGothic-69" x="149.707031"/>
@@ -1732,7 +1732,7 @@ L 709.2 25.8
    </g>
    <g id="text_42">
     <!-- 0.982 -->
-    <g transform="translate(431.138497 57.772509)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(431.138497 57.772509)scale(0.1 -0.1)">
      <use xlink:href="#TakaoPGothic-30"/>
      <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
      <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1742,7 +1742,7 @@ L 709.2 25.8
    </g>
    <g id="text_43">
     <!-- 0.963 -->
-    <g transform="translate(477.560911 80.467944)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(477.560911 80.467944)scale(0.1 -0.1)">
      <use xlink:href="#TakaoPGothic-30"/>
      <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
      <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1752,7 +1752,7 @@ L 709.2 25.8
    </g>
    <g id="text_44">
     <!-- 0.986 -->
-    <g transform="translate(523.983324 52.660515)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(523.983324 52.660515)scale(0.1 -0.1)">
      <use xlink:href="#TakaoPGothic-30"/>
      <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
      <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1762,7 +1762,7 @@ L 709.2 25.8
    </g>
    <g id="text_45">
     <!-- 0.971 -->
-    <g transform="translate(570.405738 70.94974)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(570.405738 70.94974)scale(0.1 -0.1)">
      <use xlink:href="#TakaoPGothic-30"/>
      <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
      <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1772,7 +1772,7 @@ L 709.2 25.8
    </g>
    <g id="text_46">
     <!-- 0.992 -->
-    <g transform="translate(616.828152 45.75005)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(616.828152 45.75005)scale(0.1 -0.1)">
      <use xlink:href="#TakaoPGothic-30"/>
      <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
      <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1782,7 +1782,7 @@ L 709.2 25.8
    </g>
    <g id="text_47">
     <!-- 0.993 -->
-    <g transform="translate(663.250566 44.085806)scale(0.1 -0.1)">
+    <g style="fill: #ffffff" transform="translate(663.250566 44.085806)scale(0.1 -0.1)">
      <use xlink:href="#TakaoPGothic-30"/>
      <use xlink:href="#TakaoPGothic-2e" x="62.988281"/>
      <use xlink:href="#TakaoPGothic-39" x="89.404297"/>
@@ -1792,7 +1792,7 @@ L 709.2 25.8
    </g>
    <g id="text_48">
     <!-- Neural Networks -->
-    <g transform="translate(514.468125 19.8)scale(0.12 -0.12)">
+    <g style="fill: #ffffff" transform="translate(514.468125 19.8)scale(0.12 -0.12)">
      <use xlink:href="#TakaoPGothic-4e"/>
      <use xlink:href="#TakaoPGothic-65" x="75.976562"/>
      <use xlink:href="#TakaoPGothic-75" x="132.861328"/>
@@ -1813,10 +1813,10 @@ L 709.2 25.8
   </g>
  </g>
  <defs>
-  <clipPath id="pba96484377">
+  <clipPath id="p9c09988dd5">
    <rect x="58.425" y="25.8" width="296.175" height="254.7554"/>
   </clipPath>
-  <clipPath id="pb55e1279e5">
+  <clipPath id="p73bf4cc4d7">
    <rect x="413.025" y="25.8" width="296.175" height="254.7554"/>
   </clipPath>
  </defs>
