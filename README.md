@@ -35,8 +35,8 @@ As explained in the Kaggle page for the dataset, the Kuzushiji characters from t
 And besides having samples with variations for the same class, there are also less common characters in the japanese literature, than others. To translate this reality to the dataset, the unbalance between the amount of samples was kept, as shown in the figure below.
 
 <p align="center">
-  <img align="center" alt="Classes Unbalance" src="/examples/dark/classes_inbalance_train_samples.png#gh-light-mode-only">
-  <img align="center" alt="Classes Unbalance" src="/examples/light/classes_inbalance_train_samples.png#gh-dark-mode-only">
+  <img align="center" alt="Classes Unbalance" src="/examples/dark/classes_unbalance_train_samples.svg#gh-light-mode-only">
+  <img align="center" alt="Classes Unbalance" src="/examples/light/classes_unbalance_train_samples.svg#gh-dark-mode-only">
 </p>
 
 For more details, check the [Kaggle page](https://www.kaggle.com/anokas/kuzushiji) for the dataset.
@@ -188,7 +188,7 @@ As fot the CNN models:
 Since the CNN_dense_batch_norm, CNN_1_adam and CNN_2_adam all got very similar results, both for the accuracy and multiclass AUC, to decide which was the best, another factor will be taken into consideration: the number of trainable parameters.
 
 |         Model        | # of trainable parameters |
-| -------------------- | ------------------------- |
+| :------------------ | :-----------------------: |
 |       CNN_1_adam     |          201073           |
 |       CNN_2_adam     |          922225           |
 | CNN_dense_batch_norm |         2888719           |
