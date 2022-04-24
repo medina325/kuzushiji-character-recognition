@@ -8,7 +8,8 @@
 - [Evaluation](#evaluation)
   - [Accuracy](#accuracy)
   - [ROC Curve and AUC](#roc-curve-and-auc)
-  - [Multiclass ROC/AUC Analysis](#multiclass-roc-auc-analysis)
+  - [Multiclass ROC/AUC Analysis](#multiclass-rocauc-analysis)
+- [Conclusion](#conclusion)
 - [Discussion](#discussion)
 
 

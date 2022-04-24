@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="360pt" viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-04-23T20:50:35.780835</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 720 360 
+L 720 0 
+L 0 0 
+L 0 360 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 77.324064 172 
+L 183.924064 172 
+L 183.924064 65.4 
+L 77.324064 65.4 
+L 77.324064 172 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#paed853ae7a)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAGsAAABrCAYAAABwv3wMAAAFAklEQVR4nO2dSyh1URTHD3mHkMeAUExJ8hiQwkBCyggzlFIMTZRiogw8Y0KZIY8hJqKkDDwiJENv7sAzJM9v8NVur/Xl5nLuOffvW7/R+rfvdVb9rb3PPWc/vAzD+DBsoqmpScWFhYWkraGhgWiHw0H0+/s70cvLyyrOzc0lbdXV1USPj4+7nqwH4G13AsLXEbOAELOA8LHz4m1tbSqOiIggbeXl5UQPDAwQ3dzcTPT29raKc3JySNvR0dFP0vQYpLKAELOAELOAsHXMOjs7U3F4eDhp8/LyIrqxsZHo7OxsotPT0z/97sPDw4/y9BSksoAQs4CwtRscGxtTcUdHh0vfzcjIIJp3fb8RqSwgxCwgxCwgbB2zlpaWVMxfeXh7O/8/cjZG8cdL+qMoZKSygBCzgBCzgLB1zFpZWVHx9PQ0aauoqCDax+frqd7e3hLNx0NUpLKAELOAELOA8DJsnIrmjKysLKLz8/OJTk5OJrq2tlbFb29vpC0pKYno4+NjM1K0HKksIMQsIMQsIGz9neWM1dVVotfW1px+PiAgQMV8ujT/zdbX1/fD7OxBKgsIMQsIMQsIj/2d5Sr6nAw+vk1MTBBdWVlpSU5mI5UFhJgFhMfeurvK+vq6ij8+aM/OZ/uiIpUFhJgFhJgFxK8Zs3R2dnaI1h9FISOVBYSYBYSYBcSvHLP8/f2Jjo2NtSkTc5HKAkLMAkLMAsKtY1ZISAjR+rJUw6CvKsxcUT8zM0N0VVWVaX/bTqSygBCzgBCzgHDrmFVSUkJ0aWkp0fX19Sru6ekx7bobGxtE19TUEB0WFkb0zc2Nadd2J1JZQIhZQIhZQLh1zIqLi3PaXlBQoOLe3l7SxudRuMLk5CTRLS0tRNfV1RHd1dX17WtZiVQWEGIWEG6dkRsfH0/04eHhp5/19fUl+vX11bQ8Wltbiebdor6xsmEYRmdnp2nXNhOpLCDELCDELCDceut+dXVF9MnJCdH6rT2fLnZ/f29aHoODg0SnpqYSzces6+trooeGhj79235+fkTznQK4/glSWUCIWUCIWUBYuvJRP9zMMAyjv79fxVYeSMYPqZmbmyOa724zOjqq4vPzc9JWVlZGdHd3N9HDw8PfzpMjlQWEmAWEmAWEpWNWWloa0fqqer6Tp5XTx/hr/v39faL1MY7vKHp6ekp0cXEx0bu7uyZk+BepLCDELCDELCAsXfKztbVF9NTUlIr1V/zuJi8vj2h+2GdUVBTR+ukMl5eXpI0ffm3mGMWRygJCzALC1G6Qz2bis4hCQ0OJDgwMVHFkZCRp47fu/Nb+5eXl23nyzZH39vaInp2dJVrv+hYWFkgbfw3kTqSygBCzgBCzgDD1cRN/XdDe3k70/Pw80UVFRSpOSUkhbfywM/1gNMP4d+zQX0VcXFx8MWMspLKAELOAELOAMHXMiomJIfr5+ZlovsJQ3wnm7u6OtPHp1HxVCT/AbHNzU8WZmZlfSxgMqSwgxCwgxCwgTH026HA4XPr809OTig8ODkgbf/bHD4bmK/+Dg4NdujYiUllAiFlAiFlAeMzBMYuLi0QnJCQQzQ/Z/B+RygJCzAJCzALC1t2no6OjVcwPiQ4KCnKqHx8f3ZeYhyKVBYSYBYSl3WBiYiLR+k4ufBrbyMgI0f9jt8eRygJCzAJCzALC0sdNfDcWfYU+P0RTX8lvGObu1IKKVBYQYhYQYhYQfwAc4jLK+UHgigAAAABJRU5ErkJggg==" id="imagee17cf69015" transform="scale(1 -1)translate(0 -107)" x="77.324064" y="-65" width="107" height="107"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m070929c7ba" d="M 0 0 
+L 0 3.5 
+" style="stroke: #ffffff; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m070929c7ba" x="79.227636" y="172" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(76.078417 186.490625)scale(0.1 -0.1)">
+       <defs>
+        <path id="TakaoPGothic-30" d="M 2038 4725 
+Q 2881 4725 3334 3944 
+Q 3694 3325 3694 2344 
+Q 3694 1372 3334 741 
+Q 2888 -31 2016 -31 
+Q 1147 -31 700 741 
+Q 341 1372 341 2350 
+Q 341 3713 1000 4334 
+Q 1419 4725 2038 4725 
+z
+M 2016 4263 
+Q 1516 4263 1228 3756 
+Q 934 3244 934 2341 
+Q 934 1456 1222 947 
+Q 1513 447 2016 447 
+Q 2619 447 2909 1150 
+Q 3100 1622 3100 2375 
+Q 3100 3253 2806 3756 
+Q 2509 4263 2016 4263 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m070929c7ba" x="117.299064" y="172" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(111.000627 186.490625)scale(0.1 -0.1)">
+       <defs>
+        <path id="TakaoPGothic-31" d="M 2463 63 
+L 1900 63 
+L 1900 4103 
+Q 1372 3922 788 3797 
+L 684 4231 
+Q 1522 4441 2106 4728 
+L 2463 4728 
+L 2463 63 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m070929c7ba" x="155.370493" y="172" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(149.072055 186.490625)scale(0.1 -0.1)">
+       <defs>
+        <path id="TakaoPGothic-32" d="M 3659 63 
+L 447 63 
+L 447 594 
+Q 825 1475 1894 2203 
+L 2072 2322 
+Q 2619 2697 2791 2906 
+Q 2988 3150 2988 3444 
+Q 2988 3769 2756 4000 
+Q 2500 4256 2084 4256 
+Q 1250 4256 991 3328 
+L 497 3506 
+Q 853 4725 2116 4725 
+Q 2806 4725 3216 4316 
+Q 3575 3947 3575 3425 
+Q 3575 3038 3344 2722 
+Q 3131 2416 2366 1938 
+L 2231 1856 
+Q 1256 1253 978 569 
+L 3659 569 
+L 3659 63 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path id="mfb3f1cf429" d="M 0 0 
+L -3.5 0 
+" style="stroke: #ffffff; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="77.324064" y="67.303571" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(64.025627 71.048884)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="77.324064" y="105.375" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(57.727189 109.120313)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="77.324064" y="143.446429" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(57.727189 147.191741)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 77.324064 172 
+L 77.324064 65.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 183.924064 172 
+L 183.924064 65.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 77.324064 172 
+L 183.924064 172 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 77.324064 65.4 
+L 183.924064 65.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_7">
+    <!-- Predicted Class: な -->
+    <g style="fill: #ffffff" transform="translate(77.727502 46.3335)scale(0.12 -0.12)">
+     <defs>
+      <path id="TakaoPGothic-50" d="M 609 4634 
+L 1941 4634 
+Q 3688 4634 3688 3322 
+Q 3688 1934 1906 1934 
+L 1172 1934 
+L 1172 63 
+L 609 63 
+L 609 4634 
+z
+M 1172 2381 
+L 1800 2381 
+Q 3100 2381 3100 3316 
+Q 3100 4181 1894 4181 
+L 1172 4181 
+L 1172 2381 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-72" d="M 2309 3313 
+L 2213 2769 
+Q 2106 2791 2022 2791 
+Q 1653 2791 1413 2444 
+Q 1113 2006 1113 1675 
+L 1113 63 
+L 563 63 
+L 563 3250 
+L 1081 3250 
+L 1056 2303 
+L 1069 2303 
+Q 1422 3341 2097 3341 
+Q 2206 3341 2309 3313 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-65" d="M 863 1594 
+Q 891 1041 1209 722 
+Q 1534 397 1997 397 
+Q 2606 397 2963 966 
+L 3322 728 
+Q 2869 -31 1931 -31 
+Q 1222 -31 766 422 
+Q 306 884 306 1641 
+Q 306 2444 788 2925 
+Q 1216 3353 1856 3353 
+Q 2459 3353 2866 2956 
+Q 3322 2494 3322 1722 
+L 3322 1594 
+L 863 1594 
+z
+M 2756 1997 
+Q 2709 2431 2450 2681 
+Q 2194 2938 1844 2938 
+Q 1438 2938 1150 2591 
+Q 953 2356 894 1997 
+L 2756 1997 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-64" d="M 3391 63 
+L 2891 63 
+L 2891 619 
+Q 2441 -31 1753 -31 
+Q 1181 -31 788 372 
+Q 313 844 313 1663 
+Q 313 2466 772 2938 
+Q 1169 3341 1753 3341 
+Q 2384 3341 2847 2809 
+L 2847 4794 
+L 3391 4794 
+L 3391 63 
+z
+M 2847 1303 
+L 2847 2097 
+Q 2847 2413 2456 2706 
+Q 2181 2906 1853 2906 
+Q 1484 2906 1228 2650 
+Q 888 2309 888 1678 
+Q 888 1109 1169 750 
+Q 1441 409 1847 409 
+Q 2322 409 2656 875 
+Q 2847 1134 2847 1303 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-69" d="M 1178 3928 
+L 550 3928 
+L 550 4569 
+L 1178 4569 
+L 1178 3928 
+z
+M 1138 63 
+L 588 63 
+L 588 3250 
+L 1138 3250 
+L 1138 63 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-63" d="M 3269 784 
+Q 2834 -31 1900 -31 
+Q 1228 -31 788 409 
+Q 313 891 313 1663 
+Q 313 2428 788 2913 
+Q 1222 3347 1881 3347 
+Q 2813 3347 3206 2541 
+L 2763 2309 
+Q 2484 2900 1900 2900 
+Q 1516 2900 1234 2619 
+Q 881 2266 881 1650 
+Q 881 1069 1222 728 
+Q 1522 428 1956 428 
+Q 2547 428 2847 1016 
+L 3269 784 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-74" d="M 2125 241 
+Q 1772 -6 1397 -6 
+Q 653 -6 653 831 
+L 653 2859 
+L 219 2859 
+L 219 3250 
+L 653 3250 
+L 653 3966 
+L 1178 4228 
+L 1178 3250 
+L 2063 3250 
+L 2063 2859 
+L 1178 2859 
+L 1178 906 
+Q 1178 416 1513 416 
+Q 1738 416 1941 588 
+L 2125 241 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-20" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-43" d="M 4353 1088 
+Q 4181 694 3859 428 
+Q 3313 -31 2559 -31 
+Q 1588 -31 959 653 
+Q 378 1294 378 2331 
+Q 378 3406 1013 4078 
+Q 1619 4725 2534 4725 
+Q 3813 4725 4322 3628 
+L 3809 3391 
+Q 3425 4238 2541 4238 
+Q 1891 4238 1453 3744 
+Q 994 3216 994 2322 
+Q 994 1550 1384 1056 
+Q 1841 472 2563 472 
+Q 3456 472 3878 1319 
+L 4353 1088 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-6c" d="M 1131 63 
+L 581 63 
+L 581 4794 
+L 1131 4794 
+L 1131 63 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-61" d="M 3156 63 
+L 2669 63 
+Q 2559 303 2528 556 
+L 2509 556 
+Q 2147 -25 1428 -25 
+Q 934 -25 622 288 
+Q 347 563 347 959 
+Q 347 1947 2050 1997 
+L 2478 2009 
+L 2478 2175 
+Q 2478 2509 2284 2700 
+Q 2088 2900 1775 2900 
+Q 1238 2900 969 2378 
+L 494 2597 
+Q 934 3328 1788 3328 
+Q 2372 3328 2691 3000 
+Q 2984 2706 2984 2169 
+L 2984 997 
+Q 2984 400 3156 63 
+z
+M 2491 1625 
+L 2138 1619 
+Q 903 1591 903 953 
+Q 903 728 1050 581 
+Q 1231 403 1525 403 
+Q 1934 403 2234 703 
+Q 2491 969 2491 1344 
+L 2491 1625 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-73" d="M 2234 2547 
+Q 1938 2931 1484 2931 
+Q 891 2931 891 2475 
+Q 891 2153 1531 1944 
+L 1741 1875 
+Q 2650 1578 2650 894 
+Q 2650 434 2272 172 
+Q 1972 -31 1497 -31 
+Q 766 -31 256 503 
+L 603 819 
+Q 997 397 1516 397 
+Q 2131 397 2131 875 
+Q 2131 1238 1453 1478 
+L 1234 1553 
+Q 378 1853 378 2431 
+Q 378 2797 628 3047 
+Q 928 3347 1453 3347 
+Q 2156 3347 2606 2859 
+L 2234 2547 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-3a" d="M 1369 2559 
+L 672 2559 
+L 672 3250 
+L 1369 3250 
+L 1369 2559 
+z
+M 1369 63 
+L 672 63 
+L 672 753 
+L 1369 753 
+L 1369 63 
+z
+" transform="scale(0.015625)"/>
+      <path id="TakaoPGothic-306a" d="M 3738 3150 
+L 4203 3150 
+L 4250 1275 
+Q 4278 1266 4347 1238 
+Q 4375 1228 4500 1178 
+Q 5075 959 5728 603 
+L 5447 194 
+Q 4863 559 4269 816 
+L 4263 725 
+Q 4263 234 4109 34 
+Q 3909 -222 3309 -222 
+Q 2666 -222 2272 103 
+Q 2009 328 2009 650 
+Q 2009 1003 2334 1244 
+Q 2688 1488 3213 1488 
+Q 3444 1488 3775 1416 
+L 3738 3150 
+z
+M 3781 988 
+Q 3434 1084 3172 1084 
+Q 2894 1084 2706 981 
+Q 2469 859 2469 656 
+Q 2469 472 2700 328 
+Q 2925 200 3263 200 
+Q 3797 200 3788 672 
+L 3781 988 
+z
+M 600 3928 
+Q 913 3909 1138 3909 
+Q 1519 3909 1803 3938 
+Q 1950 4381 2100 5125 
+L 2591 5050 
+Q 2491 4559 2322 3988 
+Q 2775 4031 3366 4172 
+L 3384 3713 
+Q 2725 3575 2181 3531 
+Q 1659 2028 850 831 
+L 409 1113 
+Q 1131 2063 1663 3488 
+Q 1222 3469 897 3469 
+Q 763 3469 628 3475 
+L 600 3928 
+z
+M 5344 2759 
+Q 4806 3353 4069 3853 
+L 4397 4191 
+Q 5144 3728 5703 3128 
+L 5344 2759 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TakaoPGothic-50"/>
+     <use xlink:href="#TakaoPGothic-72" x="62.109375"/>
+     <use xlink:href="#TakaoPGothic-65" x="99.121094"/>
+     <use xlink:href="#TakaoPGothic-64" x="156.005859"/>
+     <use xlink:href="#TakaoPGothic-69" x="218.408203"/>
+     <use xlink:href="#TakaoPGothic-63" x="245.410156"/>
+     <use xlink:href="#TakaoPGothic-74" x="299.804688"/>
+     <use xlink:href="#TakaoPGothic-65" x="334.423828"/>
+     <use xlink:href="#TakaoPGothic-64" x="391.308594"/>
+     <use xlink:href="#TakaoPGothic-20" x="453.710938"/>
+     <use xlink:href="#TakaoPGothic-43" x="480.712891"/>
+     <use xlink:href="#TakaoPGothic-6c" x="553.222656"/>
+     <use xlink:href="#TakaoPGothic-61" x="580.224609"/>
+     <use xlink:href="#TakaoPGothic-73" x="635.205078"/>
+     <use xlink:href="#TakaoPGothic-73" x="681.396484"/>
+     <use xlink:href="#TakaoPGothic-3a" x="727.587891"/>
+     <use xlink:href="#TakaoPGothic-20" x="759.570312"/>
+     <use xlink:href="#TakaoPGothic-306a" x="786.572266"/>
+    </g>
+    <!-- Real Class: な -->
+    <g style="fill: #ffffff" transform="translate(92.731252 59.4)scale(0.12 -0.12)">
+     <defs>
+      <path id="TakaoPGothic-52" d="M 4072 63 
+L 3394 63 
+Q 3138 644 2828 1197 
+Q 2584 1644 2344 1825 
+Q 2050 2044 1625 2044 
+L 1172 2044 
+L 1172 63 
+L 609 63 
+L 609 4634 
+L 2009 4634 
+Q 2713 4634 3131 4378 
+Q 3688 4044 3688 3381 
+Q 3688 2784 3181 2459 
+Q 2906 2272 2522 2216 
+L 2522 2197 
+Q 2941 2050 3247 1581 
+Q 3516 1169 4072 63 
+z
+M 1172 2478 
+L 1869 2478 
+Q 3106 2478 3106 3369 
+Q 3106 4181 1928 4181 
+L 1172 4181 
+L 1172 2478 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TakaoPGothic-52"/>
+     <use xlink:href="#TakaoPGothic-65" x="64.794922"/>
+     <use xlink:href="#TakaoPGothic-61" x="121.679688"/>
+     <use xlink:href="#TakaoPGothic-6c" x="176.660156"/>
+     <use xlink:href="#TakaoPGothic-20" x="203.662109"/>
+     <use xlink:href="#TakaoPGothic-43" x="230.664062"/>
+     <use xlink:href="#TakaoPGothic-6c" x="303.173828"/>
+     <use xlink:href="#TakaoPGothic-61" x="330.175781"/>
+     <use xlink:href="#TakaoPGothic-73" x="385.15625"/>
+     <use xlink:href="#TakaoPGothic-73" x="431.347656"/>
+     <use xlink:href="#TakaoPGothic-3a" x="477.539062"/>
+     <use xlink:href="#TakaoPGothic-20" x="509.521484"/>
+     <use xlink:href="#TakaoPGothic-306a" x="536.523438"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 306.7 172 
+L 413.3 172 
+L 413.3 65.4 
+L 306.7 65.4 
+L 306.7 172 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p553d520f60)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAGsAAABrCAYAAABwv3wMAAAExklEQVR4nO2dSyh0cRjGz7iTXLJQFlZWIrJz2QgpiWQhJUkWipIorNzLApElJRHKQpRSxEIhVoSFDaIMFkKS+7c7nef/fd9BjjnnHc9v9T79Z8w7Pd7zzsz/clyapr1rHiIuLg70+vq6HkdGRsJYV1cX6O7ubtAvLy8WZ+d8fOxOgHwemiUImiUIl+bBnqWSmZmpx/Pz8zAWEhICuqmpCXRfXx/o93fb3obHYGUJgmYJgmYJwtaeZaShoQF0b28v6OfnZ9AlJSWgZ2dnfyYxB8HKEgTNEoRjLoOhoaGg9/f3QcfGxoJ2u92gy8vL9Xhpacni7JwBK0sQNEsQNEsQjulZKqWlpaAnJiZA+/jg/9np6akep6WlwdjZ2ZnF2dkDK0sQNEsQNEsQju1Zvr6+oPv7+0HX1NT89/FTU1MwVlFRAfrp6cmCDD0PK0sQNEsQNEsQju1ZKur3qsHBQdC1tbV6/Pb2BmPt7e2gOzs7QUtZEsDKEgTNEgTNEoSYnqWiLrdeXl7W45SUFBh7eHgAnZ2dDdq4jNvJsLIEQbMEQbMEIbZnqSQnJ+vxxsYGjAUFBYHe3d0FnZGRAfru7s7a5CyClSUImiUIr7kMulwuPVZ3mNTX15s+t6enB3RLS4t1iVkIK0sQNEsQNEsQXtOzjERERIBeW1sDnZCQAPrx8RF0cXEx6IWFBeuS+wasLEHQLEHQLEF4Zc9SycnJAT03Nwc6ODgY9NHREej09HQ9Pj8/tzi7z8PKEgTNEgTNEsSv6FnG3w01TdNmZmZAq9+rVIaGhvS4rq4Oxjy5jI2VJQiaJQiaJYhf0bNU1NNppqenTR9/e3urx6mpqTB2cHBgXWIfwMoSBM0SBM0ShJ/dCdjB9vY2aHU+KzAwEHRYWJge5+XlwRh7FvknNEsQv/IyeHx8DHpxcRF0YWHhf5/r7+//Eyl9ClaWIGiWIGiWIGztWcapi4CAABhTDzBWd+B/B/VvjY2NgTbrWXbCyhIEzRIEzRKErT2rqqpKj9va2mBsZWUFdGNjI+iLiwvL8tjc3AR9c3MDOjw83LLX+g6sLEHQLEHQLEHY2rOysrL0OCYmBsbKyspAR0VFgS4qKgKtTnN8BeO0vab9vVvf2LPsvDEoK0sQNEsQNEsQHu1Z6jJmdauNGbm5uaAHBgZAG49HODk5+VJeiYmJoKOjo0Ebf6fc29v70t+2ElaWIGiWIDx6GVR3XGxtbelxQUGB6XPVA42rq6tB5+fn6/HIyAiMra6uglYP4W9tbQWt3gDAeP9JdQmAJ2FlCYJmCYJmCcLWXSTGj+7qgY5JSUmWvc7r66vpuNqjxsfHQRuncuy86QwrSxA0SxA0SxC2TpEYD8cfHh6GMeMOeU37+6cqlcvLSz1WD9X38zN/m4eHh6A7OjpAO+XmaKwsQdAsQdAsQThmt77aV3Z2dkDHx8ebPr+yslKPR0dHrUvMQbCyBEGzBEGzBOGYbarqEq+rqyvTx6tzY2632/KcnAYrSxA0SxA0SxCO6VkqH23pub+/B319ff2T6TgCVpYgaJYgHHMZVKdA1Muc+lF9cnIStHp4ljfCyhIEzRIEzRKEY3qWeoMydSdkc3MzaHUXyUfLzbwBVpYgaJYgaJYg/gB5NzGt1xnwEQAAAABJRU5ErkJggg==" id="image31ed9cf3d1" transform="scale(1 -1)translate(0 -107)" x="306.7" y="-65" width="107" height="107"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m070929c7ba" x="308.603571" y="172" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(305.454353 186.490625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m070929c7ba" x="346.675" y="172" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(340.376562 186.490625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m070929c7ba" x="384.746429" y="172" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(378.447991 186.490625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="306.7" y="67.303571" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(293.401563 71.048884)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="306.7" y="105.375" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(287.103125 109.120313)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="306.7" y="143.446429" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(287.103125 147.191741)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_8">
+    <path d="M 306.7 172 
+L 306.7 65.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 413.3 172 
+L 413.3 65.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 306.7 172 
+L 413.3 172 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 306.7 65.4 
+L 413.3 65.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <!-- Predicted Class: か -->
+    <g style="fill: #ffffff" transform="translate(306.924375 46.3335)scale(0.12 -0.12)">
+     <defs>
+      <path id="TakaoPGothic-304b" d="M 531 3384 
+Q 1306 3503 1984 3584 
+Q 2184 4341 2266 4972 
+L 2772 4878 
+Q 2631 4150 2491 3628 
+L 2591 3634 
+Q 2766 3641 2913 3641 
+Q 3944 3641 3944 2369 
+Q 3944 1128 3572 384 
+Q 3350 -56 2875 -56 
+Q 2463 -56 1984 231 
+L 2009 775 
+Q 2503 444 2797 444 
+Q 3041 444 3169 706 
+Q 3438 1294 3438 2388 
+Q 3438 3219 2888 3219 
+Q 2703 3219 2369 3194 
+Q 2259 2763 1984 2047 
+Q 1506 797 991 -38 
+L 550 244 
+Q 1228 1238 1734 2753 
+Q 1759 2816 1863 3128 
+Q 1466 3084 641 2919 
+L 531 3384 
+z
+M 5516 1753 
+Q 4944 3025 4109 3916 
+L 4513 4184 
+Q 5366 3275 5953 2094 
+L 5516 1753 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TakaoPGothic-50"/>
+     <use xlink:href="#TakaoPGothic-72" x="62.109375"/>
+     <use xlink:href="#TakaoPGothic-65" x="99.121094"/>
+     <use xlink:href="#TakaoPGothic-64" x="156.005859"/>
+     <use xlink:href="#TakaoPGothic-69" x="218.408203"/>
+     <use xlink:href="#TakaoPGothic-63" x="245.410156"/>
+     <use xlink:href="#TakaoPGothic-74" x="299.804688"/>
+     <use xlink:href="#TakaoPGothic-65" x="334.423828"/>
+     <use xlink:href="#TakaoPGothic-64" x="391.308594"/>
+     <use xlink:href="#TakaoPGothic-20" x="453.710938"/>
+     <use xlink:href="#TakaoPGothic-43" x="480.712891"/>
+     <use xlink:href="#TakaoPGothic-6c" x="553.222656"/>
+     <use xlink:href="#TakaoPGothic-61" x="580.224609"/>
+     <use xlink:href="#TakaoPGothic-73" x="635.205078"/>
+     <use xlink:href="#TakaoPGothic-73" x="681.396484"/>
+     <use xlink:href="#TakaoPGothic-3a" x="727.587891"/>
+     <use xlink:href="#TakaoPGothic-20" x="759.570312"/>
+     <use xlink:href="#TakaoPGothic-304b" x="786.572266"/>
+    </g>
+    <!-- Real Class: か -->
+    <g style="fill: #ffffff" transform="translate(321.928125 59.4)scale(0.12 -0.12)">
+     <use xlink:href="#TakaoPGothic-52"/>
+     <use xlink:href="#TakaoPGothic-65" x="64.794922"/>
+     <use xlink:href="#TakaoPGothic-61" x="121.679688"/>
+     <use xlink:href="#TakaoPGothic-6c" x="176.660156"/>
+     <use xlink:href="#TakaoPGothic-20" x="203.662109"/>
+     <use xlink:href="#TakaoPGothic-43" x="230.664062"/>
+     <use xlink:href="#TakaoPGothic-6c" x="303.173828"/>
+     <use xlink:href="#TakaoPGothic-61" x="330.175781"/>
+     <use xlink:href="#TakaoPGothic-73" x="385.15625"/>
+     <use xlink:href="#TakaoPGothic-73" x="431.347656"/>
+     <use xlink:href="#TakaoPGothic-3a" x="477.539062"/>
+     <use xlink:href="#TakaoPGothic-20" x="509.521484"/>
+     <use xlink:href="#TakaoPGothic-304b" x="536.523438"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_12">
+    <path d="M 536.075936 172 
+L 642.675936 172 
+L 642.675936 65.4 
+L 536.075936 65.4 
+L 536.075936 172 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p0b17594bbe)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAGsAAABrCAYAAABwv3wMAAADDklEQVR4nO2dvWoqURSFj/8gKIIiIiIIgjYprS3tLezFh0hn4Rv4BOIrpLSyFS0EO7GwlKCNBFHx53bnzp7Cm2JmvGuzvmpvDoEdvuxZSWYyCRljnkYBn5+ftu73++IsmUyKPpFIiP56vfo3mIeE3z0A+T2UBQRlARF99wBeUa/Xbf319SXOJpOJ6O/3eyAzeQ03CwjKAoKygFCTWZvNxtbValWcjUajoMfxBW4WEJQFhJrLYDwet7Xz23hjjAmFQqJ/PjF/w8bNAoKygKAsINRkVqlUsrX7lgdqRrnhZgFBWUBQFhBqMiuXy9k6Fou9cRL/4GYBQVlAUBYQajIrGv37qaRSqTdO4h/cLCAoCwjKAkJNZh0OB1uXy+U3TuIf3CwgKAsIygJCTWY572FlMhlx5vwZzBhjbrdbECN5DjcLCMoCQs1l8Pv729bpdFqcRSIR0fMySHyHsoCgLCDUZNZyubT1z8+POEPNKDfcLCAoCwjKAkJNZq3Xa1ufTidxxsenSeBQFhCUBYSazDoej7Z2/vmPMcbk83nR73a7QGbyGm4WEJQFBGUBoSaznDkUDsuvQferFphZxHcoCwjKAkJNZjmfs3BnVqVSEf10Og1iJM/hZgFBWUCouQw6b4Ocz2dx5n5CFxVuFhCUBQRlAaEms5yPn83nc3HmfPsMMtwsICgLCMoCQk1mOZnNZqLX8sYZbhYQlAUEZQEBm1mv/guC87E0Y4xptVq//tj/GW4WEJQFBGUBAZtZr3KmWCyKvlariR71VQvcLCAoCwjYy+Ar3C/h1/JSfm4WEJQFBGUBoTKzFouF6Hu93psm8RZuFhCUBQRlAaEysy6Xi+hRboH8C24WEJQFBGUBoTKzms2m6FerlehRbom44WYBQVlAUBYQajIrm83autPpiLPxeBz0OL7AzQKCsoCgLCDUZNZgMLD14/EQZ8PhMOhxfIGbBQRlAQF7GSwUCqJvt9u27na74my73QYxku9ws4CgLCAoCwjYzGo0GqL/+Piw9X6/D3qcQOBmAUFZQFAWEH8AQgyN6K3G12EAAAAASUVORK5CYII=" id="imageec4b37bb76" transform="scale(1 -1)translate(0 -107)" x="536.075936" y="-65" width="107" height="107"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m070929c7ba" x="537.979507" y="172" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(534.830289 186.490625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m070929c7ba" x="576.050936" y="172" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(569.752498 186.490625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m070929c7ba" x="614.122364" y="172" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(607.823927 186.490625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="536.075936" y="67.303571" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(522.777498 71.048884)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="536.075936" y="105.375" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(516.479061 109.120313)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="536.075936" y="143.446429" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(516.479061 147.191741)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_13">
+    <path d="M 536.075936 172 
+L 536.075936 65.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 642.675936 172 
+L 642.675936 65.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 536.075936 172 
+L 642.675936 172 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 536.075936 65.4 
+L 642.675936 65.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_21">
+    <!-- Predicted Class: し -->
+    <g style="fill: #ffffff" transform="translate(537.440311 46.3335)scale(0.12 -0.12)">
+     <defs>
+      <path id="TakaoPGothic-3057" d="M 984 4884 
+L 1516 4884 
+L 1516 1319 
+Q 1516 816 1681 572 
+Q 1884 284 2406 284 
+Q 3606 284 4344 1763 
+L 4722 1372 
+Q 4372 691 3775 266 
+Q 3138 -203 2413 -203 
+Q 984 -203 984 1269 
+L 984 4884 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TakaoPGothic-50"/>
+     <use xlink:href="#TakaoPGothic-72" x="62.109375"/>
+     <use xlink:href="#TakaoPGothic-65" x="99.121094"/>
+     <use xlink:href="#TakaoPGothic-64" x="156.005859"/>
+     <use xlink:href="#TakaoPGothic-69" x="218.408203"/>
+     <use xlink:href="#TakaoPGothic-63" x="245.410156"/>
+     <use xlink:href="#TakaoPGothic-74" x="299.804688"/>
+     <use xlink:href="#TakaoPGothic-65" x="334.423828"/>
+     <use xlink:href="#TakaoPGothic-64" x="391.308594"/>
+     <use xlink:href="#TakaoPGothic-20" x="453.710938"/>
+     <use xlink:href="#TakaoPGothic-43" x="480.712891"/>
+     <use xlink:href="#TakaoPGothic-6c" x="553.222656"/>
+     <use xlink:href="#TakaoPGothic-61" x="580.224609"/>
+     <use xlink:href="#TakaoPGothic-73" x="635.205078"/>
+     <use xlink:href="#TakaoPGothic-73" x="681.396484"/>
+     <use xlink:href="#TakaoPGothic-3a" x="727.587891"/>
+     <use xlink:href="#TakaoPGothic-20" x="759.570312"/>
+     <use xlink:href="#TakaoPGothic-3057" x="786.572266"/>
+    </g>
+    <!-- Real Class: し -->
+    <g style="fill: #ffffff" transform="translate(552.444061 59.4)scale(0.12 -0.12)">
+     <use xlink:href="#TakaoPGothic-52"/>
+     <use xlink:href="#TakaoPGothic-65" x="64.794922"/>
+     <use xlink:href="#TakaoPGothic-61" x="121.679688"/>
+     <use xlink:href="#TakaoPGothic-6c" x="176.660156"/>
+     <use xlink:href="#TakaoPGothic-20" x="203.662109"/>
+     <use xlink:href="#TakaoPGothic-43" x="230.664062"/>
+     <use xlink:href="#TakaoPGothic-6c" x="303.173828"/>
+     <use xlink:href="#TakaoPGothic-61" x="330.175781"/>
+     <use xlink:href="#TakaoPGothic-73" x="385.15625"/>
+     <use xlink:href="#TakaoPGothic-73" x="431.347656"/>
+     <use xlink:href="#TakaoPGothic-3a" x="477.539062"/>
+     <use xlink:href="#TakaoPGothic-20" x="509.521484"/>
+     <use xlink:href="#TakaoPGothic-3057" x="536.523438"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_17">
+    <path d="M 77.324064 333.2 
+L 183.924064 333.2 
+L 183.924064 226.6 
+L 77.324064 226.6 
+L 77.324064 333.2 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p8013dd55fb)">
+    <image xlink:href="data:image/png;base64,
+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" id="image711474c7ea" transform="scale(1 -1)translate(0 -107)" x="77.324064" y="-226.2" width="107" height="107"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_10">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m070929c7ba" x="79.227636" y="333.2" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(76.078417 347.690625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m070929c7ba" x="117.299064" y="333.2" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(111.000627 347.690625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m070929c7ba" x="155.370493" y="333.2" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(149.072055 347.690625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_10">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="77.324064" y="228.503571" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(64.025627 232.248884)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="77.324064" y="266.575" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(57.727189 270.320312)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="77.324064" y="304.646429" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(57.727189 308.391741)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_18">
+    <path d="M 77.324064 333.2 
+L 77.324064 226.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 183.924064 333.2 
+L 183.924064 226.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 77.324064 333.2 
+L 183.924064 333.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 77.324064 226.6 
+L 183.924064 226.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_28">
+    <!-- Predicted Class: も -->
+    <g style="fill: #ffffff" transform="translate(78.509377 207.5335)scale(0.12 -0.12)">
+     <defs>
+      <path id="TakaoPGothic-3082" d="M 422 3950 
+Q 1047 3844 1728 3816 
+L 1759 4044 
+L 1800 4281 
+L 1856 4672 
+L 1881 4856 
+L 1913 5056 
+L 2413 4984 
+Q 2297 4363 2222 3816 
+Q 2900 3822 3669 3938 
+L 3669 3494 
+Q 3084 3394 2156 3372 
+Q 2088 2938 2028 2381 
+Q 2688 2381 3456 2509 
+L 3456 2059 
+Q 2784 1947 1972 1947 
+Q 1903 1553 1903 1216 
+Q 1903 191 3034 191 
+Q 4194 191 4194 1216 
+Q 4194 1669 4041 2131 
+L 4547 2181 
+Q 4700 1713 4700 1234 
+Q 4700 472 4200 75 
+Q 3772 -256 3034 -256 
+Q 1428 -256 1428 1153 
+Q 1428 1328 1478 1791 
+Q 1478 1819 1484 1838 
+Q 1488 1856 1491 1909 
+Q 1494 1941 1497 1959 
+Q 784 2025 434 2094 
+L 481 2541 
+Q 1006 2431 1550 2400 
+L 1569 2541 
+L 1588 2741 
+Q 1591 2756 1672 3378 
+Q 975 3406 366 3519 
+L 422 3950 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TakaoPGothic-50"/>
+     <use xlink:href="#TakaoPGothic-72" x="62.109375"/>
+     <use xlink:href="#TakaoPGothic-65" x="99.121094"/>
+     <use xlink:href="#TakaoPGothic-64" x="156.005859"/>
+     <use xlink:href="#TakaoPGothic-69" x="218.408203"/>
+     <use xlink:href="#TakaoPGothic-63" x="245.410156"/>
+     <use xlink:href="#TakaoPGothic-74" x="299.804688"/>
+     <use xlink:href="#TakaoPGothic-65" x="334.423828"/>
+     <use xlink:href="#TakaoPGothic-64" x="391.308594"/>
+     <use xlink:href="#TakaoPGothic-20" x="453.710938"/>
+     <use xlink:href="#TakaoPGothic-43" x="480.712891"/>
+     <use xlink:href="#TakaoPGothic-6c" x="553.222656"/>
+     <use xlink:href="#TakaoPGothic-61" x="580.224609"/>
+     <use xlink:href="#TakaoPGothic-73" x="635.205078"/>
+     <use xlink:href="#TakaoPGothic-73" x="681.396484"/>
+     <use xlink:href="#TakaoPGothic-3a" x="727.587891"/>
+     <use xlink:href="#TakaoPGothic-20" x="759.570312"/>
+     <use xlink:href="#TakaoPGothic-3082" x="786.572266"/>
+    </g>
+    <!-- Real Class: も -->
+    <g style="fill: #ffffff" transform="translate(93.513127 220.6)scale(0.12 -0.12)">
+     <use xlink:href="#TakaoPGothic-52"/>
+     <use xlink:href="#TakaoPGothic-65" x="64.794922"/>
+     <use xlink:href="#TakaoPGothic-61" x="121.679688"/>
+     <use xlink:href="#TakaoPGothic-6c" x="176.660156"/>
+     <use xlink:href="#TakaoPGothic-20" x="203.662109"/>
+     <use xlink:href="#TakaoPGothic-43" x="230.664062"/>
+     <use xlink:href="#TakaoPGothic-6c" x="303.173828"/>
+     <use xlink:href="#TakaoPGothic-61" x="330.175781"/>
+     <use xlink:href="#TakaoPGothic-73" x="385.15625"/>
+     <use xlink:href="#TakaoPGothic-73" x="431.347656"/>
+     <use xlink:href="#TakaoPGothic-3a" x="477.539062"/>
+     <use xlink:href="#TakaoPGothic-20" x="509.521484"/>
+     <use xlink:href="#TakaoPGothic-3082" x="536.523438"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_22">
+    <path d="M 306.7 333.2 
+L 413.3 333.2 
+L 413.3 226.6 
+L 306.7 226.6 
+L 306.7 333.2 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p3b3798a3eb)">
+    <image xlink:href="data:image/png;base64,
+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" id="imagea48c020f31" transform="scale(1 -1)translate(0 -107)" x="306.7" y="-226.2" width="107" height="107"/>
+   </g>
+   <g id="matplotlib.axis_9">
+    <g id="xtick_13">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m070929c7ba" x="308.603571" y="333.2" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(305.454353 347.690625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m070929c7ba" x="346.675" y="333.2" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(340.376562 347.690625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m070929c7ba" x="384.746429" y="333.2" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(378.447991 347.690625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_10">
+    <g id="ytick_13">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="306.7" y="228.503571" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(293.401563 232.248884)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="306.7" y="266.575" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(287.103125 270.320312)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="306.7" y="304.646429" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(287.103125 308.391741)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_23">
+    <path d="M 306.7 333.2 
+L 306.7 226.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 413.3 333.2 
+L 413.3 226.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 306.7 333.2 
+L 413.3 333.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 306.7 226.6 
+L 413.3 226.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_35">
+    <!-- Predicted Class: ま -->
+    <g style="fill: #ffffff" transform="translate(307.765312 207.5335)scale(0.12 -0.12)">
+     <defs>
+      <path id="TakaoPGothic-307e" d="M 3134 5075 
+L 3159 4141 
+Q 3919 4191 4772 4341 
+L 4809 3897 
+Q 4106 3791 3166 3719 
+L 3184 2925 
+Q 3925 2994 4516 3103 
+L 4547 2663 
+Q 3906 2553 3197 2503 
+L 3225 1403 
+Q 3228 1400 3259 1391 
+Q 3288 1381 3313 1369 
+Q 3378 1344 3422 1325 
+Q 3447 1313 3525 1288 
+Q 4200 1003 4888 550 
+L 4581 122 
+Q 3978 575 3409 838 
+Q 3394 844 3366 859 
+Q 3347 869 3338 872 
+Q 3297 891 3238 909 
+Q 3238 316 2975 84 
+Q 2700 -153 2113 -153 
+Q 1463 -153 1084 53 
+Q 622 313 622 769 
+Q 622 1128 956 1356 
+Q 1347 1625 2016 1625 
+Q 2322 1625 2750 1538 
+L 2731 2472 
+Q 2263 2450 1900 2450 
+Q 1419 2450 909 2484 
+L 909 2919 
+Q 1428 2872 2003 2872 
+Q 2334 2872 2725 2894 
+Q 2719 2950 2719 3150 
+Q 2719 3316 2713 3469 
+Q 2706 3531 2706 3688 
+Q 2041 3672 1831 3672 
+Q 1269 3672 563 3706 
+L 563 4141 
+Q 1231 4094 1919 4094 
+Q 2103 4094 2688 4109 
+L 2678 4275 
+L 2666 4459 
+L 2653 4738 
+L 2647 4903 
+L 2634 5075 
+L 3134 5075 
+z
+M 2756 1088 
+Q 2275 1216 1991 1216 
+Q 1581 1216 1306 1050 
+Q 1116 934 1116 775 
+Q 1116 588 1331 453 
+Q 1606 275 2053 275 
+Q 2756 275 2756 794 
+L 2756 1088 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TakaoPGothic-50"/>
+     <use xlink:href="#TakaoPGothic-72" x="62.109375"/>
+     <use xlink:href="#TakaoPGothic-65" x="99.121094"/>
+     <use xlink:href="#TakaoPGothic-64" x="156.005859"/>
+     <use xlink:href="#TakaoPGothic-69" x="218.408203"/>
+     <use xlink:href="#TakaoPGothic-63" x="245.410156"/>
+     <use xlink:href="#TakaoPGothic-74" x="299.804688"/>
+     <use xlink:href="#TakaoPGothic-65" x="334.423828"/>
+     <use xlink:href="#TakaoPGothic-64" x="391.308594"/>
+     <use xlink:href="#TakaoPGothic-20" x="453.710938"/>
+     <use xlink:href="#TakaoPGothic-43" x="480.712891"/>
+     <use xlink:href="#TakaoPGothic-6c" x="553.222656"/>
+     <use xlink:href="#TakaoPGothic-61" x="580.224609"/>
+     <use xlink:href="#TakaoPGothic-73" x="635.205078"/>
+     <use xlink:href="#TakaoPGothic-73" x="681.396484"/>
+     <use xlink:href="#TakaoPGothic-3a" x="727.587891"/>
+     <use xlink:href="#TakaoPGothic-20" x="759.570312"/>
+     <use xlink:href="#TakaoPGothic-307e" x="786.572266"/>
+    </g>
+    <!-- Real Class: ま -->
+    <g style="fill: #ffffff" transform="translate(322.769063 220.6)scale(0.12 -0.12)">
+     <use xlink:href="#TakaoPGothic-52"/>
+     <use xlink:href="#TakaoPGothic-65" x="64.794922"/>
+     <use xlink:href="#TakaoPGothic-61" x="121.679688"/>
+     <use xlink:href="#TakaoPGothic-6c" x="176.660156"/>
+     <use xlink:href="#TakaoPGothic-20" x="203.662109"/>
+     <use xlink:href="#TakaoPGothic-43" x="230.664062"/>
+     <use xlink:href="#TakaoPGothic-6c" x="303.173828"/>
+     <use xlink:href="#TakaoPGothic-61" x="330.175781"/>
+     <use xlink:href="#TakaoPGothic-73" x="385.15625"/>
+     <use xlink:href="#TakaoPGothic-73" x="431.347656"/>
+     <use xlink:href="#TakaoPGothic-3a" x="477.539062"/>
+     <use xlink:href="#TakaoPGothic-20" x="509.521484"/>
+     <use xlink:href="#TakaoPGothic-307e" x="536.523438"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_27">
+    <path d="M 536.075936 333.2 
+L 642.675936 333.2 
+L 642.675936 226.6 
+L 536.075936 226.6 
+L 536.075936 333.2 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p0f31edde3c)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAGsAAABrCAYAAABwv3wMAAAEJklEQVR4nO2dTShtURiG9xWhSErIiEyIkcJIBvJTSBkZIFNJ+Sk/E4xEDEwUM0mUmZkwYCrKQCnJgDoZCDFAwp2t9rs6l/tzztrnvft9RutpK19e3/72OWeftX94nvfphYySkhLw6elp8JGREfCLi4u41/Q7JAVdgPh9FBYRCouI5KALCIKOjg7wmpoa8PHxcfC+vj6zfnl5iV9h36DOIkJhEaGwiAjlzLJfN+Xk5IB3d3eDn52dmfX8/Hz8CvsGdRYRCouIUJ4GT05OwF9fX8Hty/OKigqztk+Zt7e3sS3uC9RZRCgsIhQWEaGcWff39+D2zMrKygJvbGw06/Lycji2v78f2+K+QJ1FhMIiQmEREcqZFYlEwPf29sDb29vB09PTzbq5uRmOaWaJqCgsIhQWEaGcWbm5ueD+9/6i4Z9Z9nuDLlFnEaGwiFBYRIRyZqWmpoJfX1+D2+8NZmdnm3VycnB/MnUWEQqLCIVFRChn1tXVFXhtbS344uIieG9vr1m/v7/Hr7BvUGcRobCICOVp0ObzE7/8+fDw8MufPT09jXM1v0adRYTCIkJhEaGZFYW8vDxw/0w7OjpyXY5BnUWEwiJCYRHhdGY1NDSA393dmXWQs8CmuLgY3H+79fHxsetyDOosIhQWEQqLCKczy/6W/NbWllnPzs7CsbW1NSc1eZ7nFRYWgldXV4P76356enJRUlTUWUQoLCIUFhFOZ9bl5SX43NycWdsfpZeWloJPTU2Bv729xayunp4e8LS0NPClpaWY/a5/QZ1FhMIiQmER8cNLkN2n+/v7wRcWFsBXVlbAR0dHwb/alicpCf8n29rawDc3N8H9u6B5nudVVlaatb0Ng0vUWUQoLCIS5mN9+9Ld/naifZrMz88HPzw8NGt7F5iMjAzwoqIi8IODA/Dh4WHwIE99ftRZRCgsIhQWEQlz6f4ddXV14F1dXeBDQ0NmnZmZCceen5/BHx8fwYPcWP9PUGcRobCIUFhE0Mwsm8HBQXD/Lc9jY2Ouy3GCOosIhUWEwiKCdmalpKSAb2xsmPXMzAwcS6Rbs/8FdRYRCosIhUUE7cyy8X/+tbq6Csc6OzvBXT6ZJ5aos4hQWET8N6dBP1VVVeCtra3gk5OT4B8fH3GvKRaos4hQWEQoLCL+y5llYz93+ObmBnxnZ8dlOX+NOosIhUWEwiIiFDPL3nTf3hlgYmIC3L5VLVFQZxGhsIhQWESEYmbZ1NfXg7e0tIAPDAyA27tTB4U6iwiFRYTCIiJhvqbqkt3dXfCmpibwsrIy8CCfkuBHnUWEwiJCYRERytdZNgUFBeDLy8vg/h1pgrxfQ51FhMIiIpSX7jaRSAT8/Pwc3P/wgO3tbSc1RUOdRYTCIkJhEaFL9yjYDztbX183a3unG5eos4hQWEQoLCJ+AptF7jOBdhzkAAAAAElFTkSuQmCC" id="image1741d7dd40" transform="scale(1 -1)translate(0 -107)" x="536.075936" y="-226.2" width="107" height="107"/>
+   </g>
+   <g id="matplotlib.axis_11">
+    <g id="xtick_16">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m070929c7ba" x="537.979507" y="333.2" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(534.830289 347.690625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m070929c7ba" x="576.050936" y="333.2" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(569.752498 347.690625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#m070929c7ba" x="614.122364" y="333.2" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(607.823927 347.690625)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_12">
+    <g id="ytick_16">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="536.075936" y="228.503571" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <!-- 0 -->
+      <g style="fill: #ffffff" transform="translate(522.777498 232.248884)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="536.075936" y="266.575" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <!-- 10 -->
+      <g style="fill: #ffffff" transform="translate(516.479061 270.320312)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-31"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#mfb3f1cf429" x="536.075936" y="304.646429" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <!-- 20 -->
+      <g style="fill: #ffffff" transform="translate(516.479061 308.391741)scale(0.1 -0.1)">
+       <use xlink:href="#TakaoPGothic-32"/>
+       <use xlink:href="#TakaoPGothic-30" x="62.988281"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_28">
+    <path d="M 536.075936 333.2 
+L 536.075936 226.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 642.675936 333.2 
+L 642.675936 226.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 536.075936 333.2 
+L 642.675936 333.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 536.075936 226.6 
+L 642.675936 226.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_42">
+    <!-- Predicted Class: る -->
+    <g style="fill: #ffffff" transform="translate(537.199373 207.5335)scale(0.12 -0.12)">
+     <defs>
+      <path id="TakaoPGothic-308b" d="M 3813 4397 
+L 2034 2584 
+Q 2647 2809 3181 2809 
+Q 3684 2809 4081 2625 
+Q 4813 2269 4813 1484 
+Q 4813 756 4128 275 
+Q 3494 -166 2475 -166 
+Q 1981 -166 1669 19 
+Q 1284 250 1284 666 
+Q 1284 934 1491 1141 
+Q 1753 1403 2163 1403 
+Q 2931 1403 3441 428 
+Q 4294 781 4294 1491 
+Q 4294 1981 3891 2222 
+Q 3588 2406 3103 2406 
+Q 1847 2406 659 1209 
+L 313 1581 
+Q 1859 2934 3000 4281 
+Q 2016 4125 1009 4063 
+L 900 4550 
+Q 2016 4578 3531 4763 
+L 3813 4397 
+z
+M 3013 300 
+Q 2666 1025 2153 1025 
+Q 1825 1025 1756 800 
+Q 1738 725 1738 700 
+Q 1738 250 2456 250 
+Q 2694 250 3013 300 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TakaoPGothic-50"/>
+     <use xlink:href="#TakaoPGothic-72" x="62.109375"/>
+     <use xlink:href="#TakaoPGothic-65" x="99.121094"/>
+     <use xlink:href="#TakaoPGothic-64" x="156.005859"/>
+     <use xlink:href="#TakaoPGothic-69" x="218.408203"/>
+     <use xlink:href="#TakaoPGothic-63" x="245.410156"/>
+     <use xlink:href="#TakaoPGothic-74" x="299.804688"/>
+     <use xlink:href="#TakaoPGothic-65" x="334.423828"/>
+     <use xlink:href="#TakaoPGothic-64" x="391.308594"/>
+     <use xlink:href="#TakaoPGothic-20" x="453.710938"/>
+     <use xlink:href="#TakaoPGothic-43" x="480.712891"/>
+     <use xlink:href="#TakaoPGothic-6c" x="553.222656"/>
+     <use xlink:href="#TakaoPGothic-61" x="580.224609"/>
+     <use xlink:href="#TakaoPGothic-73" x="635.205078"/>
+     <use xlink:href="#TakaoPGothic-73" x="681.396484"/>
+     <use xlink:href="#TakaoPGothic-3a" x="727.587891"/>
+     <use xlink:href="#TakaoPGothic-20" x="759.570312"/>
+     <use xlink:href="#TakaoPGothic-308b" x="786.572266"/>
+    </g>
+    <!-- Real Class: る -->
+    <g style="fill: #ffffff" transform="translate(552.203123 220.6)scale(0.12 -0.12)">
+     <use xlink:href="#TakaoPGothic-52"/>
+     <use xlink:href="#TakaoPGothic-65" x="64.794922"/>
+     <use xlink:href="#TakaoPGothic-61" x="121.679688"/>
+     <use xlink:href="#TakaoPGothic-6c" x="176.660156"/>
+     <use xlink:href="#TakaoPGothic-20" x="203.662109"/>
+     <use xlink:href="#TakaoPGothic-43" x="230.664062"/>
+     <use xlink:href="#TakaoPGothic-6c" x="303.173828"/>
+     <use xlink:href="#TakaoPGothic-61" x="330.175781"/>
+     <use xlink:href="#TakaoPGothic-73" x="385.15625"/>
+     <use xlink:href="#TakaoPGothic-73" x="431.347656"/>
+     <use xlink:href="#TakaoPGothic-3a" x="477.539062"/>
+     <use xlink:href="#TakaoPGothic-20" x="509.521484"/>
+     <use xlink:href="#TakaoPGothic-308b" x="536.523438"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_43">
+   <!-- Correct Predictions -->
+   <g style="fill: #ffffff" transform="translate(282.794766 19.934062)scale(0.17 -0.17)">
+    <defs>
+     <path id="TakaoPGothic-6f" d="M 1919 3341 
+Q 2594 3341 3056 2888 
+Q 3531 2413 3531 1638 
+Q 3531 891 3066 422 
+Q 2609 -31 1919 -31 
+Q 1228 -31 781 416 
+Q 313 884 313 1656 
+Q 313 2413 788 2888 
+Q 1241 3341 1919 3341 
+z
+M 1919 2919 
+Q 1519 2919 1241 2631 
+Q 888 2278 888 1650 
+Q 888 1031 1234 684 
+Q 1516 403 1919 403 
+Q 2331 403 2609 691 
+Q 2956 1038 2956 1672 
+Q 2956 2269 2603 2631 
+Q 2316 2919 1919 2919 
+z
+" transform="scale(0.015625)"/>
+     <path id="TakaoPGothic-6e" d="M 3328 63 
+L 2778 63 
+L 2778 2041 
+Q 2778 2853 2106 2853 
+Q 1428 2853 1113 2041 
+L 1113 63 
+L 563 63 
+L 563 3250 
+L 1075 3250 
+L 1075 2675 
+Q 1525 3313 2222 3313 
+Q 3328 3313 3328 2072 
+L 3328 63 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#TakaoPGothic-43"/>
+    <use xlink:href="#TakaoPGothic-6f" x="72.509766"/>
+    <use xlink:href="#TakaoPGothic-72" x="132.910156"/>
+    <use xlink:href="#TakaoPGothic-72" x="169.921875"/>
+    <use xlink:href="#TakaoPGothic-65" x="206.933594"/>
+    <use xlink:href="#TakaoPGothic-63" x="263.818359"/>
+    <use xlink:href="#TakaoPGothic-74" x="318.212891"/>
+    <use xlink:href="#TakaoPGothic-20" x="352.832031"/>
+    <use xlink:href="#TakaoPGothic-50" x="379.833984"/>
+    <use xlink:href="#TakaoPGothic-72" x="441.943359"/>
+    <use xlink:href="#TakaoPGothic-65" x="478.955078"/>
+    <use xlink:href="#TakaoPGothic-64" x="535.839844"/>
+    <use xlink:href="#TakaoPGothic-69" x="598.242188"/>
+    <use xlink:href="#TakaoPGothic-63" x="625.244141"/>
+    <use xlink:href="#TakaoPGothic-74" x="679.638672"/>
+    <use xlink:href="#TakaoPGothic-69" x="714.257812"/>
+    <use xlink:href="#TakaoPGothic-6f" x="741.259766"/>
+    <use xlink:href="#TakaoPGothic-6e" x="801.660156"/>
+    <use xlink:href="#TakaoPGothic-73" x="862.060547"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="paed853ae7a">
+   <rect x="77.324064" y="65.4" width="106.6" height="106.6"/>
+  </clipPath>
+  <clipPath id="p553d520f60">
+   <rect x="306.7" y="65.4" width="106.6" height="106.6"/>
+  </clipPath>
+  <clipPath id="p0b17594bbe">
+   <rect x="536.075936" y="65.4" width="106.6" height="106.6"/>
+  </clipPath>
+  <clipPath id="p8013dd55fb">
+   <rect x="77.324064" y="226.6" width="106.6" height="106.6"/>
+  </clipPath>
+  <clipPath id="p3b3798a3eb">
+   <rect x="306.7" y="226.6" width="106.6" height="106.6"/>
+  </clipPath>
+  <clipPath id="p0f31edde3c">
+   <rect x="536.075936" y="226.6" width="106.6" height="106.6"/>
+  </clipPath>
+ </defs>
+</svg>
