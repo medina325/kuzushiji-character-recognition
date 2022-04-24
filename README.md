@@ -10,6 +10,7 @@
   - [ROC Curve and AUC](#roc-curve-and-auc)
   - [Multiclass ROC/AUC Analysis](#multiclass-rocauc-analysis)
 - [Conclusion](#conclusion)
+- [Best Model's Predictions](#best-models-predictions)
 - [Discussion](#discussion)
 
 
