@@ -196,6 +196,23 @@ Since the CNN_dense_batch_norm, CNN_1_adam and CNN_2_adam all got very similar r
 
 So, with only 201073 trainable parameters, ~4.6x less than the CNN_2_adam model and ~14.4x less than the CNN_dense_batch_norm, the **CNN_1_adam** achieved pretty much the same performance as more complex models, being also **better than the best NN model**.
 
+## Best Model's Predictions
+This extra section just aims to show a few predictions made by the best model, the CNN_1_adam model. Starting with some correctly classified samples:
+
+<p align="center">
+  <img align="center" alt="scatter_accuracy_auc" src="/examples/dark/results/correct_predictions.svg#gh-light-mode-only">
+  <img align="center" alt="scatter_accuracy_auc" src="/examples/light/results/correct_predictions.svg#gh-dark-mode-only">
+</p>
+
+We can see that some samples don't look exactly like their classes, as mentioned previously there are different variations of the same class. At least for the samples above, the model managed to learn most of them (check the AUC value for this class in particular).
+
+For the incorrect predictions, is a bit funny the fact that some samples do look very much alike other classes. For example, some samples might look more like this class れ, than this one ん. But there are also some very hard cases, where a sample from the class は might look like a sample from the class へ. Such cases can be impossible to treat with the solution presented.
+
+<p align="center">
+  <img align="center" alt="scatter_accuracy_auc" src="/examples/dark/results/incorrect_predictions.svg#gh-light-mode-only">
+  <img align="center" alt="scatter_accuracy_auc" src="/examples/light/results/incorrect_predictions.svg#gh-dark-mode-only">
+</p>
+
 ## Discussion
 
-TODO - Talk about using ResNets, for reduced computational cost -> less time to train
+TODO - Talk about using ResNets, for higher accuracy, reduced computational cost, less time to train, etc
