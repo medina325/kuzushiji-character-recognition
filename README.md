@@ -204,7 +204,7 @@ This extra section just aims to show a few predictions made by the best model, t
   <img align="center" alt="scatter_accuracy_auc" src="/examples/light/correct_predictions.svg#gh-dark-mode-only">
 </p>
 
-We can see that some samples don't look exactly like their classes, as mentioned previously there are different variations of the same class. At least for the samples above, the model managed to learn most of them (check the AUC value for this class in particular).
+We can see that some samples don't look exactly like their classes, as mentioned previously there are different variations for the same class. At least for the samples above, the model managed to learn most of them (check the AUC value for the classes in particular).
 
 For the incorrect predictions, is a bit funny the fact that some samples do look very much alike other classes. For example, some samples might look more like this class れ, than this one ん. But there are also some very hard cases, where a sample from the class は might look like a sample from the class へ. Such cases can be impossible to treat with the solution presented.
 
